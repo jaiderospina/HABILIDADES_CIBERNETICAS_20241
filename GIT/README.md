@@ -171,4 +171,4 @@ Este manual cubre los aspectos básicos para empezar a trabajar con Git. Existen
 
 # Taller 1.
 
-[Tallerbásico git-github]([GIT/TallerGIT.p](https://github.com/jaiderospina/HABILIDADES_CIBERNETICAS_20241/blob/main/GIT/TallerGIT.pdf)
+[Tallerbásico git-github](https://github.com/jaiderospina/HABILIDADES_CIBERNETICAS_20241/blob/main/GIT/TallerGIT.pdf)
