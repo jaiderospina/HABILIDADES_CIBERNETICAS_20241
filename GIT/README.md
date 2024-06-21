@@ -167,3 +167,8 @@ git pull origin nombre_de_la_rama
 ### Conclusión
 
 Este manual cubre los aspectos básicos para empezar a trabajar con Git. Existen muchos más comandos y opciones que puedes explorar. Para más información, consulta la [documentación oficial de Git](https://git-scm.com/doc).
+
+
+# Taller 1.
+
+[Tallerbásico git-github]GIT/TallerGIT.pdf
