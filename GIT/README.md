@@ -171,4 +171,4 @@ Este manual cubre los aspectos básicos para empezar a trabajar con Git. Existen
 
 # Taller 1.
 
-[Tallerbásico git-github] (GIT/TallerGIT.pdf)
+[Tallerbásico git-github](GIT/TallerGIT.pdf)
