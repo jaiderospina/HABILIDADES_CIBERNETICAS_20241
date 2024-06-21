@@ -1,7 +1,5 @@
 ## Artículo curso
 
-Apreciados estudiantes, tal y como se socializó en clase, la calificación del 60 % correspondiente al segundo módulo de nuestro diplomado será un artículo de reflexión o estado del arte sobre la Identidad Digital. El cual debe ser entregado y sustentado el día 11 de mayo. Al respecto tener en cuenta:
-
 1. El trabajo es en grupo, según la distribución ya existente.
 2. Las  temáticas son:
 
