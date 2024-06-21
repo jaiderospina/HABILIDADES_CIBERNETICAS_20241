@@ -1,7 +1,7 @@
 ## CASOS DE ESTUDIO
 
 
-# CACO 1.  Consultoría sobre Medidas de ciberseguridad. 
+# CASO 1.  Consultoría sobre Medidas de ciberseguridad. 
 
 En grupos de 4 integrantes analizar y responder el siguiente caso de estudio. Para ello:
 
