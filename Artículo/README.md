@@ -26,6 +26,7 @@ Desarrollo de competencias de investigación, uso de herramientas como los repos
 5. Debe ser escrito en tercera persona y contener un mínimo de 10 referencias.
 
 NOTA: Se anexa plantilla y guía de nomas APA en la carpeta ya mencionada.
+NOTA 2:  Se debe documentar todo commit generado. 
 
 Con aprecio;
 
