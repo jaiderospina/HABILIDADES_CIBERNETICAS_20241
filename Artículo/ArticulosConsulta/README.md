@@ -1,7 +1,7 @@
 # Carpeta artículos.
 
 
-Claro, aquí tienes la tabla en formato Markdown con 40 filas vacías y solo los encabezados:
+Esta tabla debe ser diligenciada por todos los grupos, agergando sus artículos, al respecto investigar como se inserta los daos solicitados (markdown):
 
 ```markdown
 | Título                | Autor              | Referencia APA 7                                   | URL                  | Grupo  |
