@@ -177,6 +177,6 @@ Actividad en clase.
 ## Agregar Colaboradores/Usuarios/Desarrolladores A Un Repositorio.
 
 
-[![Alt text](https://img.youtube.com/vi/HSh2fQq7Tlvo1DjN/0.jpg)](https://www.youtube.com/watch?v=HSh2fQq7Tlvo1DjN)
+[![Alt text](https://img.youtube.com/vi/G_zKrG2mkrg?si=sYOJprXKoBLAIB0S/0.jpg)](https://www.youtube.com/watch?v=G_zKrG2mkrg?si=sYOJprXKoBLAIB0S)
 
 
