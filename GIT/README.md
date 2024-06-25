@@ -176,7 +176,8 @@ Actividad en clase.
 
 ## Agregar Colaboradores/Usuarios/Desarrolladores A Un Repositorio.
 
+Para un paso a paso sobre como agergar colaboradores y aceptar la invitación de clic sobre el texto.
 
-[![Alt text](https://img.youtube.com/vi/G_zKrG2mkrg?si=sYOJprXKoBLAIB0S/0.jpg)](https://www.youtube.com/watch?v=G_zKrG2mkrg?si=sYOJprXKoBLAIB0S)
+[![Agregar Colaboradores/Usuarios/Desarrolladores A Un Repositorio.](https://img.youtube.com/vi/G_zKrG2mkrg?si=sYOJprXKoBLAIB0S/0.jpg)](https://www.youtube.com/watch?v=G_zKrG2mkrg?si=sYOJprXKoBLAIB0S)
 
 
