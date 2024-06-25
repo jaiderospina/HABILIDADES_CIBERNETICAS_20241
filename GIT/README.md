@@ -173,3 +173,10 @@ Este manual cubre los aspectos básicos para empezar a trabajar con Git. Existen
 Actividad en clase.
 
 [Tallerbásico git-github](https://github.com/jaiderospina/HABILIDADES_CIBERNETICAS_20241/blob/main/GIT/TallerGIT.pdf)
+
+## Agregar Colaboradores/Usuarios/Desarrolladores A Un Repositorio.
+
+
+[![Alt text](https://img.youtube.com/vi/HSh2fQq7Tlvo1DjN/0.jpg)](https://www.youtube.com/watch?v=HSh2fQq7Tlvo1DjN)
+
+
