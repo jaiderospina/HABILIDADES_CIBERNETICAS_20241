@@ -3,8 +3,6 @@
 RFC 2350, titulado "Expectations for Computer Security Incident Response," establece las expectativas para los Equipos de Respuesta a Incidentes de Seguridad Informática (CSIRT). Los aspectos principales tratados son:
 
 
-### Explicación Detallada
-
 1. **Introducción**: 
    - Se define un CSIRT como un equipo que proporciona servicios y soporte para manejar y prevenir incidentes de seguridad informática. Estos equipos son esenciales para mantener la seguridad y estabilidad de los sistemas de información.
 
@@ -21,9 +19,9 @@ Este documento proporciona un marco comprensivo para establecer y operar un CSIR
 
 Para obtener más detalles, puedes consultar el documento completo [aquí](https://www.rfc-editor.org/rfc/rfc2350).
 
-### Taller en Grupos.
+### Taller.
 
-1. En grupos realizar la tradución del RFC 2350 (526312754-rfc2350.PDF) respetando el formato del mismo  (de acuerdo a la asignación de páginas realizado en clase) sobre el README.md de esta carpeta.
+1. En grupos realizar la tradución del RFC 2350 (526312754-rfc2350.PDF) respetando el formato del mismo. Para ello respetar la asignación de páginas realizado en clase, de marera colaborativa sobre este README.md de esta carpeta.
 
 2. Estudiar de manera individual el docuemnto generado.
 
@@ -31,4 +29,6 @@ Para obtener más detalles, puedes consultar el documento completo [aquí](https
 
 4. De la actividad general,  se realizará una prueba escrita individual en clase (quizzis). 
 
+
+###  RFC 2350
 
