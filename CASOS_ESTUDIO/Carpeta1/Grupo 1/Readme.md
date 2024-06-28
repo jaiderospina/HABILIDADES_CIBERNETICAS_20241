@@ -29,3 +29,6 @@ La seguridad de la cadena de suministro es crucial porque un ataque en cualquier
 En el ciberespacio, la cadena de suministro es un objetivo atractivo debido a su complejidad y a la confianza implícita entre los diferentes actores. Un ataque exitoso puede tener un impacto masivo, afectando a múltiples organizaciones y usuarios finales.
 
 Al proteger la cadena de suministro, se fortalece la resiliencia del ecosistema del ciberespacio, se reduce el riesgo de ataques y se protege la confianza de los usuarios en el software y los servicios digitales.
+
+MY BUITRAGO LOZANO DIEGO
+MY CERQUERA PASTRANA LIBARDO
