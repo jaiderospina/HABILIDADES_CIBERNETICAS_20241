@@ -24,6 +24,11 @@ https://csrc.nist.gov/pubs/sp/800/61/r3/ipd
 - DIRECTIVA 2008/114/CE DEL CONSEJO de 8 de diciembre de 2008 sobre la identificación y designación de infraestructuras críticas europeas y la evaluación de la
 necesidad de mejorar su protección
 https://www.ccn-cert.cni.es/publico/InfraestructurasCriticaspublico/DirectivaEuropea2008-114-CE.pdf
+- SOC de Misión Crítica: La clave para la resiliencia de los sistemas ciberfísicos
+ https://telefonicatech.com/blog/soc-mision-critica-sistemas-ciberfisicos
+- APROXIMACIÓN METODOLÓGICA DEL CIBERCRIMEN EN COLOMBIA PRIMERA PARTE
+ https://www.researchgate.net/publication/341541797_APROXIMACION_METODOLOGICA_DEL_CIBERCRIMEN_EN_COLOMBIA_PRIMERA_PARTE
+
 - Infraestructuras críticas: definición, planes, riesgos, amenazas y legislación
 https://www.lisainstitute.com/blogs/blog/infraestructuras-criticas
 - Protección de Infraestructura Crítica y Fuerzas Armadas Conceptualización y experiencia comparada
