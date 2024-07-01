@@ -21,3 +21,12 @@ https://www.cci-es.org/activities/comparativa-de-las-estrategias-nacionales-de-c
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1299.pdf
 - NIST SP 800-61 Rev. 3 (Initial Public Draft). Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile
 https://csrc.nist.gov/pubs/sp/800/61/r3/ipd
+- DIRECTIVA 2008/114/CE DEL CONSEJO de 8 de diciembre de 2008 sobre la identificación y designación de infraestructuras críticas europeas y la evaluación de la
+necesidad de mejorar su protección
+https://www.ccn-cert.cni.es/publico/InfraestructurasCriticaspublico/DirectivaEuropea2008-114-CE.pdf
+- Infraestructuras críticas: definición, planes, riesgos, amenazas y legislación
+https://www.lisainstitute.com/blogs/blog/infraestructuras-criticas
+- Protección de Infraestructura Crítica y Fuerzas Armadas Conceptualización y experiencia comparada
+https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/28141/1/BCN_Proteccion_IC_Conceptualizacion_y_experiencia_comparada.pdf
+ 
+
