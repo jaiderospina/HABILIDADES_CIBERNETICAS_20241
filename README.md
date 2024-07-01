@@ -12,4 +12,5 @@ Este curso se trata de:
 - https://www.itsimplenow.com/como-configurar-un-honeypot-ssh-y-detectar-hackers-en-tus-servidores/#instalando-endlessh
 - https://github.com/skeeto/endlessh
 - https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
+- PROTECCIÓN DE INFRAESTRUCTURAS CRÍTICAS -- GUÍA PARA LA ELABORACIÓN DE PLANES DE SEGURIDAD DEL OPERADOR Y PLANES DE PROTECCIÓN ESPECÍFICA https://www.aeiciberseguridad.es/GuiaPIC.pdf
 
