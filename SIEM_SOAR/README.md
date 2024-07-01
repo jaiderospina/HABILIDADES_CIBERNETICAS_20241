@@ -33,11 +33,7 @@ En resumen, SIEM, SOAR y XDR son soluciones de seguridad que ayudan a las organi
 Al elegir una solución de seguridad, es importante tener en cuenta las características específicas de cada solución y las necesidades de su organización. Además, es importante considerar la capacidad de la solución para integrarse con diferentes fuentes de información o datos, la escalabilidad de la solución y la capacidad de personalización.
 En cuanto a las herramientas de pago y open source, hay una variedad de opciones disponibles para cada solución de seguridad. Las principales herramientas de pago incluyen IBM QRadar, Palo Alto Networks Cortex XSOAR y Trend Micro XDR. Para las herramientas open source, OSSIM, TheHive Project y ELK Stack son algunas de las opciones disponibles.
 
-# FUENTE: https://www.linkedin.com/pulse/siem-vs-soar-xdr-cu%C3%A1les-son-las-diferencias-y-cu%C3%A1l-es-luis-jos%C3%A9/
-
-## ACTIVIDAD  EN CLASE  CASO DE ESTUDIO
-
-
+## FUENTE: https://www.linkedin.com/pulse/siem-vs-soar-xdr-cu%C3%A1les-son-las-diferencias-y-cu%C3%A1l-es-luis-jos%C3%A9/
 
 # REFERENCIAS.
 
