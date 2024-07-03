@@ -23,7 +23,7 @@ Para obtener más detalles, puedes consultar el documento completo [aquí](https
 
 1. En grupos realizar la tradución del RFC 2350 (526312754-rfc2350.PDF) respetando el formato del mismo. Para ello respetar la asignación de páginas realizado en clase, de marera colaborativa sobre este README.md de esta carpeta.
 
-2. Estudiar de manera individual el docuemnto generado.
+2. Estudiar de manera individual el documento generado.
 
 3. Participar en la exploración grupal que se realizará en clase.
 
