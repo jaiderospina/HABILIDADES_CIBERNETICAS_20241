@@ -45,7 +45,19 @@ La comunicación es fundamental para todos los aspectos de la respuesta a incide
 
 Está fuera del alcance de este documento abordar los problemas técnicos y problemas administrativos de las comunicaciones seguras. El punto es que los equipos de respuesta deben apoyar y utilizar un método para asegurar la comunicaciones entre ellos y sus electores (u otros equipos de respuesta). Cualquiera que sea el mecanismo, el nivel de protección debe ser aceptable para la comunidad constituyente.
 
+3 Información, Políticas y Procedimientos
 
+En el capítulo 2 se mencionó que las políticas y procedimientos de un equipo de respuesta necesita ser publicado en la comunidad que los constituye. En este capítulo enumeraremos todos los tipos de información que la comunidad necesita recibir de su equipo de respuesta. La forma en que se comunica esta información a una comunidad diferirá de un equipo a otro, al igual que el contenido de la información específica. La intención aquí es describir claramente los diversos tipos de información que una comunidad constituyente espera de su equipo de respuesta.
+
+Para facilitar la comprensión de las cuestiones y temas relevantes para la interacción de los electores con "su" CSIRT, sugerimos que un CSIRT publique toda la información, políticas y procedimientos dirigidos a sus electores como un documento, siguiendo la plantilla proporcionada en el Apéndice D. La estructura de la plantilla organiza los elementos, lo que facilita el suministro de información específica; en el Apéndice E proporcionamos un ejemplo de una plantilla completa para la Universidad XYZ ficticia. Si bien no se hacen recomendaciones sobre lo que un CSIRT debería adoptar para su política o procedimientos, se describen diferentes posibilidades para brindar
+
+algunos ejemplos. Lo más importante es que un CSIRT tenga una política y que quienes interactúan con el CSIRT puedan obtenerla y comprenderla. 
+
+Como siempre, no se pueden cubrir todos los aspectos de cada entorno y/o equipo. Este esquema debe verse como una sugerencia. Cada equipo debe sentirse libre de incluir lo que crea necesario para apoyar a su electorado.
+
+3.1 Obtención del Documento
+
+Los detalles de un CSIRT cambian con el tiempo, por lo que la plantilla completa debe indicar cuándo se modificó por última vez. Además, se debe proporcionar información sobre cómo enterarse de futuras actualizaciones. Sin esto, es inevitable que con el tiempo surjan malentendidos y conceptos erróneos; Los documentos obsoletos pueden hacer más daño que bien.
 
 
 **Aporte grupo 5**
