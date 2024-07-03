@@ -34,6 +34,6 @@ Al proteger la cadena de suministro, se fortalece la resiliencia del ecosistema 
 
 **MY BUITRAGO LOZANO DIEGO**
 
-**CABEZAS CABEZAS MANUIEL AUGUSTO**
+**MY CABEZAS CABEZAS MANUIEL AUGUSTO**
 
 **MY CERQUERA PASTRANA LIBARDO**
