@@ -158,8 +158,6 @@ Es muy fácil enviar correos electrónicos falsificados y no es difícil estable
 
 **Pag 7-12 (temporal para conocimiento)**
 
-Claves criptográficas utilizadas en la comunicación segura:
-
 •	Claves públicas (para técnicas como PGP y PEM): Debido a que son accesibles a través de Internet, las claves públicas deben ser     autenticadas antes de su uso. Mientras que PGP se basa en una "Red de Confianza" (donde los usuarios firman las claves de otros usuarios), PEM se basa en una jerarquía (donde las autoridades de certificación firman las claves de los usuarios).
 
 •	Claves secretas (para técnicas como DES y PGP/cifrado convencional): Debido a que deben ser conocidas tanto por el remitente como por el receptor, las claves secretas deben intercambiarse antes de la comunicación a través de un canal seguro.
