@@ -32,3 +32,17 @@ Para obtener más detalles, puedes consultar el documento completo [aquí](https
 
 ###  RFC 2350
 
+
+**Pag 7-12 (temporal para conocimiento)**
+
+Claves criptográficas utilizadas en la comunicación segura:
+
+•	Claves públicas (para técnicas como PGP y PEM): Debido a que son accesibles a través de Internet, las claves públicas deben ser autenticadas antes de su uso. Mientras que PGP se basa en una "Red de Confianza" (donde los usuarios firman las claves de otros usuarios), PEM se basa en una jerarquía (donde las autoridades de certificación firman las claves de los usuarios).
+
+•	Claves secretas (para técnicas como DES y PGP/cifrado convencional): Debido a que deben ser conocidas tanto por el remitente como por el receptor, las claves secretas deben intercambiarse antes de la comunicación a través de un canal seguro.
+
+La comunicación es fundamental para todos los aspectos de la respuesta a incidentes. Un equipo puede apoyar mejor el uso de las técnicas mencionadas anteriormente reuniendo toda la información relevante, de manera consistente. Requisitos específicos (como llamar a un número específico para verificar la autenticidad de las claves) debe quedar claro desde el principio. Las plantillas CSIRT proporcionan un vehículo estandarizado para entregar esta información. 
+
+Está fuera del alcance de este documento abordar los problemas técnicos y problemas administrativos de las comunicaciones seguras. El punto es que los equipos de respuesta deben apoyar y utilizar un método para asegurar la comunicaciones entre ellos y sus electores (u otros equipos de respuesta). Cualquiera que sea el mecanismo, el nivel de protección debe ser aceptable para la comunidad constituyente.
+
+
