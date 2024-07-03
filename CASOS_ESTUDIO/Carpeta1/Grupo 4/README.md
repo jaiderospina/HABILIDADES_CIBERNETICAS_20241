@@ -1,9 +1,9 @@
-### Taller de Habilidades Cibernéticas :computer:
+# Taller de Habilidades Cibernéticas :computer:
 
-# Integrantes:
-* # MY. CAÑON GUSTAVO ADOLFO
-* # MY. JIMENEZ ROSERO EDISON FERNANDO
-* # MY. RENGIFO DIAZ CRISTIAN DAVID
+## Integrantes:
+* ### MY. CAÑON GUSTAVO ADOLFO
+* ### MY. JIMENEZ ROSERO EDISON FERNANDO
+* ### MY. RENGIFO DIAZ CRISTIAN DAVID
 
 
 *1. Medidas para asegurar el software de la cadena de suministro:
