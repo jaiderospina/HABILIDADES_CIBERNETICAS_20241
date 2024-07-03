@@ -32,6 +32,7 @@ Para obtener más detalles, puedes consultar el documento completo [aquí](https
 
 ###  RFC 2350
 
+### Pag 1-6 (Grupo #1)
 
 **Pag 7-12 (temporal para conocimiento)**
 
