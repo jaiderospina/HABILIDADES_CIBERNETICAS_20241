@@ -46,78 +46,103 @@ El propósito de este documento es expresar las expectativas generales de la com
 Los constituyentes de CSIRT tienen una necesidad legítima y el derecho de comprender completamente las políticas y procedimientos de 'su' Equipo de Respuesta a Incidentes de Seguridad Informática. Una forma de apoyar esta comprensión es proporcionar información detallada que los usuarios puedan considerar, en forma de una plantilla formal completada por el CSIRT. Se proporciona un esquema de dicha plantilla y un ejemplo completado. 
 
 **Tabla de Contenidos**
-   1 Introducción ....................................................2 
-   2 Alcance..........................................................4 
-     2.1 Publicación de Políticas y Procedimientos del CSIRT ..........4 
-     2.2 Relaciones entre diferentes CSIRTs ...........................5 
-     2.3 Establecimiento de Comunicaciones Seguras ....................6 
-   3 Información, Políticas y Procedimientos..........................7 
-     3.1 Obtención del Documento.......................................8 
-     3.2 Información de Contacto ......................................9 
-     3.3 Carta .......................................................10 
-         3.3.1 Declaración de Misión..................................10 
-         3.3.2 Constituencia..........................................10 
-         3.3.3 Organización Patrocinadora / Afiliación................11 
-         3.3.4 Autoridad..............................................11 
-     3.4 Políticas ...................................................11 
-         3.4.1 Tipos de Incidentes y Nivel de Soporte.................11 
-         3.4.2 Cooperación, Interacción y Divulgación de        Información.......................12 
-         3.4.3 Comunicación y Autenticación...........................14 
-     3.5 Servicios ...................................................15 
-         3.5.1 Respuesta a Incidentes ................................15 
-               3.5.1.1 Evaluación de Incidentes ......................15 
-               3.5.1.2 Coordinación de Incidentes ....................15 
-               3.5.1.3 Resolución de Incidentes.......................16 
-         3.5.2 Actividades Proactivas ................................16 
-     3.6 Formularios de Reporte de Incidentes ........................16 
-     3.7 Descargos de Responsabilidad ................................17 
-   Apéndice A: Glosario de Términos ..................................18 
-   Apéndice B: Material Relacionado ..................................20 
-   Apéndice C: Equipos de Respuesta a Incidentes de Seguridad Informática Conocidos ......21 
-   Apéndice D: Esquema para la Plantilla del CSIRT ...................22 
-   Apéndice E: Ejemplo - Plantilla Completada para un CSIRT ..........23 
-   4 Agradecimientos .................................................36 
-   5 Referencias .....................................................36 
-   6 Consideraciones de Seguridad ....................................36 
-   7 Direcciones de los Autores ......................................37 
-   8 Declaración Completa de Derechos de Autor .......................38 
+
+1 Introducción ....................................................2 
+2 Alcance..........................................................4 
+2.1 Publicación de Políticas y Procedimientos del CSIRT ..........4 
+2.2 Relaciones entre diferentes CSIRTs ...........................5 
+2.3 Establecimiento de Comunicaciones Seguras ....................6 
+3 Información, Políticas y Procedimientos..........................7 
+3.1 Obtención del Documento.......................................8 
+3.2 Información de Contacto ......................................9 
+3.3 Carta .......................................................10 
+3.3.1 Declaración de Misión..................................10 
+3.3.2 Constituencia..........................................10 
+3.3.3 Organización Patrocinadora / Afiliación................11 
+3.3.4 Autoridad..............................................11 
+3.4 Políticas ...................................................11 
+3.4.1 Tipos de Incidentes y Nivel de Soporte.................11 
+3.4.2 Cooperación, Interacción y Divulgación de Información.......................12 
+3.4.3 Comunicación y Autenticación...........................14 
+3.5 Servicios ...................................................15 
+3.5.1 Respuesta a Incidentes ................................15 
+3.5.1.1 Evaluación de Incidentes ......................15 
+3.5.1.2 Coordinación de Incidentes ....................15 
+3.5.1.3 Resolución de Incidentes.......................16 
+3.5.2 Actividades Proactivas ................................16 
+3.6 Formularios de Reporte de Incidentes ........................16 
+3.7 Descargos de Responsabilidad ................................17 
+Apéndice A: Glosario de Términos ..................................18 
+Apéndice B: Material Relacionado ..................................20 
+Apéndice C: Equipos de Respuesta a Incidentes de Seguridad Informática Conocidos ......21 
+Apéndice D: Esquema para la Plantilla del CSIRT ...................22 
+Apéndice E: Ejemplo - Plantilla Completada para un CSIRT ..........23 
+4 Agradecimientos .................................................36 
+5 Referencias .....................................................36 
+6 Consideraciones de Seguridad ....................................36 
+7 Direcciones de los Autores ......................................37 
+8 Declaración Completa de Derechos de Autor .......................38 
 
  **1 Introducción**
+ 
 El Grupo de Trabajo GRIP se formó para crear un documento que describa las expectativas de la comunidad respecto a los equipos de respuesta a incidentes de seguridad informática (CSIRTs). Aunque la necesidad de dicho documento surgió en la comunidad general de Internet, las expectativas expresadas también deberían coincidir estrechamente con las de comunidades más restringidas. 
 En el pasado ha habido malentendidos sobre lo que se debe esperar de los CSIRTs. El objetivo de este documento es proporcionar un marco para presentar los temas importantes (relacionados con la respuesta a incidentes) que son de interés para la comunidad. 
 Antes de continuar, es importante entender claramente qué se entiende por el término "Equipo de Respuesta a Incidentes de Seguridad Informática." Para los fines de este documento, un CSIRT es un equipo que realiza, coordina y apoya la respuesta a incidentes de seguridad que involucran sitios dentro de una comunidad definida (ver Apéndice A para una definición más completa). Cualquier grupo que se llame a sí mismo CSIRT para una comunidad específica debe, por lo tanto, reaccionar ante incidentes de seguridad reportados y amenazas a "su" comunidad de maneras que la comunidad específica acuerde que son de su interés general. 
 Dado que es vital que cada miembro de una comunidad constituyente pueda entender lo que es razonable esperar de su equipo, un CSIRT debe dejar claro quién pertenece a su comunidad y definir los servicios que el equipo ofrece a la comunidad. Además, cada CSIRT debe publicar sus políticas y procedimientos operativos. De manera similar, estos mismos constituyentes necesitan saber qué se espera de ellos para recibir los servicios de su equipo. Esto requiere que el equipo también publique cómo y dónde reportar incidentes. 
 Este documento detalla una plantilla que será utilizada por los CSIRTs para comunicar esta información a sus constituyentes. Los constituyentes ciertamente deben esperar que un CSIRT proporcione los servicios que describen en la plantilla completada. Debe enfatizarse que sin la participación activa de los usuarios, la efectividad de los servicios del CSIRT puede verse muy disminuida. 
  Esto es particularmente cierto en el caso de los reportes. Como mínimo, los usuarios necesitan saber que deben reportar incidentes de seguridad, y saber cómo y dónde deben reportarlos. 
+ 
 Muchos incidentes de seguridad informática se originan fuera de los límites de la comunidad local y afectan sitios internos; otros se originan dentro de la comunidad local y afectan a hosts o usuarios en el exterior. A menudo, por lo tanto, el manejo de incidentes de seguridad involucrará múltiples sitios y potencialmente múltiples CSIRTs. Resolver estos incidentes requerirá cooperación entre sitios individuales y CSIRTs, y entre CSIRTs. 
+
 Las comunidades constituyentes necesitan saber exactamente cómo su CSIRT trabajará con otros CSIRTs y organizaciones fuera de su comunidad, y qué información se compartirá. 
+
 El resto de este documento describe el conjunto de temas y cuestiones que los CSIRTs necesitan elaborar para sus constituyentes. Sin embargo, no se intenta especificar la respuesta "correcta" a ningún área temática en particular. Más bien, cada tema se discute en términos de lo que ese tema significa. 
+
 El capítulo dos proporciona una visión general de tres áreas principales: la publicación de información por parte de un equipo de respuesta, la definición de la relación del equipo de respuesta con otros equipos de respuesta, y la necesidad de comunicaciones seguras. El capítulo tres describe en detalle todos los tipos de información que la comunidad necesita saber sobre su equipo de respuesta. 
+
 Para facilitar el uso por parte de la comunidad, estos temas se condensan en una plantilla de esquema que se encuentra en el Apéndice D. Esta plantilla puede ser utilizada por los constituyentes para obtener información de su CSIRT. 
 Es la sincera esperanza del grupo de trabajo que, mediante la clarificación de los temas en este documento, se aumente la comprensión entre la comunidad y sus CSIRTs. 
+
+
 **2 Alcance**
+
 Las interacciones entre un equipo de respuesta a incidentes y su comunidad constituyente requieren primero que la comunidad comprenda las políticas y procedimientos del equipo de respuesta. 
+
 En segundo lugar, dado que muchos equipos de respuesta colaboran para manejar incidentes, la comunidad también debe comprender la relación entre su equipo de respuesta y otros equipos. Finalmente, muchas interacciones aprovecharán las infraestructuras públicas existentes, por lo que la comunidad necesita saber cómo se protegerán esas comunicaciones. Cada uno de estos temas se describirá con más detalle en las siguientes tres secciones. 
+
 **2.1 Publicación de Políticas y Procedimientos del CSIRT**
+
 Cada usuario que tenga acceso a un Equipo de Respuesta a Incidentes de Seguridad Informática debe saber tanto como sea posible sobre los servicios y las interacciones con este equipo mucho antes de que él o ella realmente los necesite. 
+
 Una declaración clara de las políticas y procedimientos de un CSIRT ayuda a los constituyentes a comprender la mejor manera de reportar incidentes y qué apoyo esperar después. ¿Ayudará el CSIRT a resolver el incidente? ¿Proporcionará ayuda para evitar incidentes en el futuro? Las expectativas claras, particularmente sobre las limitaciones de los servicios proporcionados por un CSIRT, harán que la interacción con él sea más eficiente y efectiva. 
+
 Existen diferentes tipos de equipos de respuesta: algunos tienen comunidades muy amplias (por ejemplo, el Centro de Coordinación CERT y la Internet), otros tienen comunidades más delimitadas (por ejemplo, DFN-CERT, CIAC), y otros tienen comunidades muy restringidas (por ejemplo, equipos de respuesta comerciales, equipos de respuesta corporativos). Independientemente del tipo de equipo de respuesta, la comunidad apoyada por él debe estar informada sobre las políticas y procedimientos del equipo. Por lo tanto, es obligatorio que los equipos de respuesta publiquen dicha información para su comunidad. 
+
 Un CSIRT debe comunicar toda la información necesaria sobre sus políticas y servicios en una forma adecuada a las necesidades de su comunidad. Es importante entender que no todas las políticas y procedimientos necesitan ser de acceso público. Por ejemplo, no es necesario comprender la operación interna de un equipo para interactuar con él, como cuando se reporta un incidente o se recibe orientación sobre cómo analizar o asegurar los sistemas. 
+
 En el pasado, algunos equipos proporcionaban una especie de Marco Operativo, otros proporcionaban una lista de Preguntas Frecuentes (FAQ), mientras que otros escribían documentos para distribuir en conferencias de usuarios o enviaban boletines informativos. 
 Recomendamos que cada CSIRT publique sus directrices y procedimientos en su propio servidor de información (por ejemplo, un servidor web). Esto permitiría a los constituyentes acceder fácilmente a él, aunque el problema sigue siendo cómo un constituyente puede encontrar su equipo; las personas dentro de la comunidad deben descubrir que hay un CSIRT "a su disposición." Se prevé que las plantillas completadas del CSIRT pronto serán buscables por motores de búsqueda modernos, lo que ayudará a distribuir información sobre la existencia de CSIRTs y la información básica necesaria para acercarse a ellos. 
+
 Sería muy útil tener un repositorio central que contenga todas las plantillas completadas del CSIRT. No existe tal repositorio en el momento de escribir este documento, aunque esto podría cambiar en el futuro. 
+
 Independientemente de la fuente de la que se obtenga la información, el usuario de la plantilla debe verificar su autenticidad. Es muy recomendable que dichos documentos vitales estén protegidos por firmas digitales. Estas permitirán al usuario verificar que la plantilla fue efectivamente publicada por el CSIRT y que no ha sido manipulada. Este documento asume que el lector está familiarizado con el uso adecuado de las firmas digitales para determinar si un documento es auténtico. 
 
+
 **2.2 Relaciones entre Diferentes CSIRTs**
+
 En algunos casos, un CSIRT puede operar de manera efectiva por sí solo y en estrecha cooperación con su comunidad. Pero con las redes internacionales de hoy, es mucho más probable que la mayoría de los incidentes manejados por un CSIRT involucren a partes externas a su comunidad. Por lo tanto, el equipo necesitará interactuar con otros CSIRTs y sitios fuera de su comunidad. La comunidad constituyente debe comprender la naturaleza y el alcance de esta colaboración, ya que información muy sensible sobre constituyentes individuales puede ser divulgada en el proceso. 
+
 Las interacciones entre CSIRTs pueden incluir solicitar consejos a otros equipos, difundir conocimientos sobre problemas y trabajar cooperativamente para resolver un incidente de seguridad que afecte a una o más de las comunidades de los CSIRTs. 
 Al establecer relaciones para apoyar tales interacciones, los CSIRTs deben decidir qué tipos de acuerdos pueden existir entre ellos para compartir y proteger la información, si esta relación puede ser divulgada y, de ser así, a quién. 
 Tenga en cuenta que hay una diferencia entre un acuerdo de pares, donde los CSIRTs involucrados acuerdan trabajar juntos y compartir información, y una simple cooperación, donde un CSIRT (o cualquier otra organización) simplemente contacta a otro CSIRT y solicita ayuda o consejo. 
+
 Aunque el establecimiento de tales relaciones es muy importante y afecta la capacidad de un CSIRT para apoyar a su comunidad, depende de los equipos involucrados decidir sobre los detalles. Está más allá del alcance de este documento hacer recomendaciones para este proceso. Sin embargo, el mismo conjunto de información utilizado para establecer expectativas para una comunidad de usuarios con respecto al intercambio de información ayudará a otras partes a comprender los objetivos y servicios de un CSIRT específico, apoyando un primer contacto. 
 
 **2.3 Establecimiento de Comunicaciones Seguras**
+
 Una vez que una parte ha decidido compartir información con otra parte, o dos partes han acordado compartir información o trabajar juntas, como se requiere para la coordinación de la respuesta a incidentes de seguridad informática, todas las partes involucradas necesitan canales de comunicación seguros. (En este contexto, "seguro" se refiere a la transmisión protegida de información compartida entre diferentes partes, y no al uso adecuado de la información por parte de las partes.) Los objetivos de la comunicación segura son: 
-   - Confidencialidad: 
+
+   - Confidencialidad:
         ¿Puede alguien más acceder al contenido de la comunicación? 
    - Integridad: 
         ¿Puede alguien más manipular el contenido de la comunicación? 
@@ -125,7 +150,6 @@ Una vez que una parte ha decidido compartir información con otra parte, o dos p
         ¿Estoy comunicándome con la persona "correcta"?
      
 Es muy fácil enviar correos electrónicos falsificados y no es difícil establecer una identidad (falsa) por teléfono. Las técnicas criptográficas, por ejemplo Pretty Good Privacy (PGP) o Privacy Enhanced Mail (PEM), pueden proporcionar formas efectivas de asegurar el correo electrónico. Con el equipo adecuado también es posible asegurar la comunicación telefónica. Pero antes de usar tales mecanismos, ambas partes necesitan la infraestructura "correcta", lo que significa preparación por adelantado. La preparación más importante garantizar la autenticidad de las claves criptográficas utilizadas en la comunicación segura: 
-
 
 
 **Pag 7-12 (temporal para conocimiento)**
