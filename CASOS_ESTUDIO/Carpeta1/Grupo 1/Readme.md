@@ -30,6 +30,10 @@ En el ciberespacio, la cadena de suministro es un objetivo atractivo debido a su
 
 Al proteger la cadena de suministro, se fortalece la resiliencia del ecosistema del ciberespacio, se reduce el riesgo de ataques y se protege la confianza de los usuarios en el software y los servicios digitales.
 
+**MY BETANCOURT RUIZ DIEGO FRANCISCO**
+
 **MY BUITRAGO LOZANO DIEGO**
+
+**CABEZAS CABEZAS MANUIEL AUGUSTO**
 
 **MY CERQUERA PASTRANA LIBARDO**
