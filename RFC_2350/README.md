@@ -59,6 +59,14 @@ Como siempre, no se pueden cubrir todos los aspectos de cada entorno y/o equipo.
 
 Los detalles de un CSIRT cambian con el tiempo, por lo que la plantilla completa debe indicar cuándo se modificó por última vez. Además, se debe proporcionar información sobre cómo enterarse de futuras actualizaciones. Sin esto, es inevitable que con el tiempo surjan malentendidos y conceptos erróneos; Los documentos obsoletos pueden hacer más daño que bien.
 
+­­ Fecha de la última actualización		Esto debería ser suficiente para permitir
+cualquier persona interesada en evaluar la versión de la plantilla.
+
+­ Lista de distribución	Las listas de correo son un mecanismo conveniente para distribuir información actualizada a una gran cantidad de usuarios. Un equipo puede decidir utilizar su propia o una lista ya existente para notificar a los usuarios cada vez que el documento cambia. La lista normalmente podría incluir grupos con los que el CSIRT tiene interacciones frecuentes.
+
+ Se deben utilizar firmas digitales para los mensajes de actualización enviados por un CSIRT.
+­ Ubicación del documento		La ubicación donde se encuentra una versión actual del documento es accesible a través de los servicios de información en línea del equipo. Los integrantes pueden entonces aprender más fácilmente sobre el equipo y comprobar si actualizaciones recientes. Esta versión en línea también deberá ir acompañada de una firma digital
+
 
 **Aporte grupo 5**
 **RFC 2350 Expectativas de respuesta a incidentes de seguridad informática junio de 1998** **Pag. 25-30**
