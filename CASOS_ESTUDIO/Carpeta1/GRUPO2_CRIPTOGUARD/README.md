@@ -3,7 +3,7 @@
 :construction: Proyecto en construcción :construction:
 :construction: Proyecto en construcción :construction:
 
-## :hammer:iNTEGRANTES GRUPO
+## :hammer:INTEGRANTES GRUPO
 
 CC GONZALEZ BADRAN VICTOR ANTONIO
 
