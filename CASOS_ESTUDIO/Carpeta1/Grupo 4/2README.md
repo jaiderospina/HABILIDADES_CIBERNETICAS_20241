@@ -1,9 +1,9 @@
 # :computer: **Expectativas para la respuesta a incidentes de seguridad informática.** :computer:
 
-:policeman: ### **MY EJC CRISTIAN RENGIFO DIAZ** ###
-:policeman: ### **MY EJC RUBÉN DARÍO GUARNIZO TORRES** ###
-:policeman: ### **MY EJC EDISON JIMENEZ ROSERO** ###
-:policeman: ### **MY EJC GUSTAVO ADOLFO CAÑÓN ROMERO** ###
+### :policeman: **MY EJC CRISTIAN RENGIFO DIAZ**
+### :policeman: **MY EJC RUBÉN DARÍO GUARNIZO TORRES**
+### :policeman: **MY EJC EDISON JIMENEZ ROSERO**
+### :policeman: **MY EJC GUSTAVO ADOLFO CAÑÓN ROMERO**
 
 
 :scroll: # **Apéndice A: Glosario de términos.** :scroll:
