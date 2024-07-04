@@ -6,7 +6,7 @@
 ### :policeman: **MY EJC GUSTAVO ADOLFO CAÑÓN ROMERO**
 
 
-:scroll: # **Apéndice A: Glosario de términos.** :scroll:
+## :scroll: **Apéndice A: Glosario de términos.** :scroll:
 
 
 Este glosario define los términos utilizados para describir los incidentes de seguridad y Equipos de Respuesta a Incidentes de Seguridad Informática. 
@@ -26,7 +26,7 @@ Este glosario define los términos utilizados para describir los incidentes de s
 	prestar asistencia a miembros.
 	difundir información relacionada con incidentes.
 
-:scroll: # **Apéndice B: Material relacionado** :scroll:
+## :scroll: **Apéndice B: Material relacionado** :scroll:
 
 Cuestiones importantes en la respuesta a incidentes de seguridad a nivel de sitio están contenidos en [RFC 2196 - hace hincapié en los siguientes puntos con respecto a la conexión hacia redes externas [9]: 
 proteger la infraestructura (hosts, servidores, equipos de comunicaciones, personal) y proteger los servicios (DNS, password key servers, mail, WWW Servers, FTP).
@@ -40,7 +40,7 @@ proteger la infraestructura (hosts, servidores, equipos de comunicaciones, perso
 	Formulario de Reporte de Incidentes es proporcionado por el CERT
 	Colección de preguntas frecuentes del CERT  Centro de Coordinación
 
-:scroll: # **Apéndice C: Equipos conocidos de respuesta a incidentes de seguridad informática** :scroll:
+## :scroll: **Apéndice C: Equipos conocidos de respuesta a incidentes de seguridad informática** :scroll:
 
 Hoy en día, hay muchos CSIRT diferentes, pero no hay una sola lista de fuentes todos los equipos. La gran mayoría de  equipos principales de larga data son miembros de los FIRST. Hay mas de 55 miembros 1 en Australia, 13 en Europa, todos los demás en América del Norte).
 
@@ -49,7 +49,7 @@ Hoy en día, hay muchos CSIRT diferentes, pero no hay una sola lista de fuentes 
 	directrices para los equipos que quieran convertirse en miembros de FIRST..
 	para conocimiento de los equipos existentes adecuados a las necesidades.
 
-:scroll: # **Apéndice D: Esquema de la plantilla CSIRT** :scroll:
+## :scroll: **Apéndice D: Esquema de la plantilla CSIRT** :scroll:
 
 Encontramos un resumen en forma puntual las cuestiones abordadas en este documento, y es la plantilla recomendada para una descripción de CSIRT, se realiza con el ánimo de transmisión de las políticas, procedimientos, y otra información de un CSIRT, va de la mano con el Apendie E
 
@@ -94,7 +94,7 @@ Encontramos un resumen en forma puntual las cuestiones abordadas en este documen
       6. Formularios de notificación de incidentes
       7. Descargos de responsabilidad
 
-:scroll: # **Apéndice E: Ejemplo - Plantilla "completada" para un CSIRT** :scroll:
+## :scroll: **Apéndice E: Ejemplo - Plantilla "completada" para un CSIRT** :scroll:
 
 
 Nos muestra un ejemplo de cómo se llena una planilla de un CSIRT. Y los lugares donde encontramos este documento, en este apendice encontramos: 
