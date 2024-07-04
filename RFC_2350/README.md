@@ -166,7 +166,7 @@ La comunicación es fundamental para todos los aspectos de la respuesta a incide
 
 Está fuera del alcance de este documento abordar los problemas técnicos y problemas administrativos de las comunicaciones seguras. El punto es que los equipos de respuesta deben apoyar y utilizar un método para asegurar la comunicaciones entre ellos y sus electores (u otros equipos de respuesta). Cualquiera que sea el mecanismo, el nivel de protección debe ser aceptable para la comunidad constituyente.
 
-3 Información, Políticas y Procedimientos
+**3 Información, Políticas y Procedimientos**
 
 En el capítulo 2 se mencionó que las políticas y procedimientos de un equipo de respuesta necesita ser publicado en la comunidad que los constituye. En este capítulo enumeraremos todos los tipos de información que la comunidad necesita recibir de su equipo de respuesta. La forma en que se comunica esta información a una comunidad diferirá de un equipo a otro, al igual que el contenido de la información específica. La intención aquí es describir claramente los diversos tipos de información que una comunidad constituyente espera de su equipo de respuesta.
 
@@ -176,17 +176,98 @@ algunos ejemplos. Lo más importante es que un CSIRT tenga una política y que q
 
 Como siempre, no se pueden cubrir todos los aspectos de cada entorno y/o equipo. Este esquema debe verse como una sugerencia. Cada equipo debe sentirse libre de incluir lo que crea necesario para apoyar a su electorado.
 
-3.1 Obtención del Documento
+**3.1 Obtención del Documento**
 
 Los detalles de un CSIRT cambian con el tiempo, por lo que la plantilla completa debe indicar cuándo se modificó por última vez. Además, se debe proporcionar información sobre cómo enterarse de futuras actualizaciones. Sin esto, es inevitable que con el tiempo surjan malentendidos y conceptos erróneos; Los documentos obsoletos pueden hacer más daño que bien.
 
-­­ Fecha de la última actualización		Esto debería ser suficiente para permitir
-cualquier persona interesada en evaluar la versión de la plantilla.
+­­ Fecha de la última actualización:		            Esto debería ser suficiente para permitir cualquier persona interesada en evaluar                                                      la versión de la plantilla.
 
-­ Lista de distribución	Las listas de correo son un mecanismo conveniente para distribuir información actualizada a una gran cantidad de usuarios. Un equipo puede decidir utilizar su propia o una lista ya existente para notificar a los usuarios cada vez que el documento cambia. La lista normalmente podría incluir grupos con los que el CSIRT tiene interacciones frecuentes.
+­ Lista de distribución:	                           Las listas de correo son un mecanismo conveniente para distribuir información                                                          actualizada a una gran cantidad de usuarios. Un equipo puede decidir utilizar su                                                       propia o una lista ya existente para notificar a los usuarios cada vez que el                                                          documento cambia. La lista normalmente podría incluir grupos con los que el CSIRT                                                      tiene interacciones frecuentes.
 
- Se deben utilizar firmas digitales para los mensajes de actualización enviados por un CSIRT.
-­ Ubicación del documento		La ubicación donde se encuentra una versión actual del documento es accesible a través de los servicios de información en línea del equipo. Los integrantes pueden entonces aprender más fácilmente sobre el equipo y comprobar si actualizaciones recientes. Esta versión en línea también deberá ir acompañada de una firma digital
+                                                   Se deben utilizar firmas digitales para los mensajes de actualización enviados por                                                     un CSIRT.
+                                                   
+­ Ubicación del documento:		                     La ubicación donde se encuentra una versión actual del documento es accesible a                                                        través de los servicios de información en línea del equipo. Los integrantes pueden                                                     entonces aprender más fácilmente sobre el equipo y comprobar si actualizaciones                                                        recientes. Esta versión en línea también deberá ir acompañada de una firma digital
+
+**3.2 Información de contacto**
+
+Aquí se deben enumerar todos los detalles sobre cómo contactar al CSIRT, aunque esto puede ser muy diferente para diferentes equipos; por ejemplo, algunos podrían optar por no publicar los nombres de los miembros de su equipo. No se dan más aclaraciones cuando se puede asumir el significado del ítem.
+
+-­ Nombre del CSIRT
+
+­- Dirección de envio
+
+­ - Zona horaria	               Esto es útil para coordinar incidentes que cruzan zonas horarias.
+
+­ - Número de teléfono
+
+­ - Número de fax
+
+­ - Otras telecomunicaciones		Algunos equipos pueden proporcionar comunicaciones de voz seguras (por ejemplo, STU III).
+
+­ - Dirección de correo electrónico
+
+­ - Claves públicas y cifrado 		El uso de técnicas específicas depende de la capacidad de los interlocutores de comunicación para                                      tener acceso a programas, claves, etc. Se debe proporcionar información pertinente para que los                                        usuarios puedan determinar si pueden utilizar comunicaciones cifradas y cómo hacerlo mientras                                          interactúan con el CSIRT.
+
+- Miembros del equipo
+ 
+- Horas de funcionamiento        El horario de funcionamiento y el calendario de días festivos deben proporcionarse aquí.
+                                 ¿Hay una línea directa las 24 horas?
+
+- Información de contacto adicional ¿Existe alguna información de contacto específica del cliente?
+ 
+Se puede proporcionar información de contacto más detallada. Esto podría incluir diferentes contactos para diferentes servicios o podría ser una lista de servicios de información en línea. Si existen procedimientos específicos para acceder a algunos servicios (por ejemplo, direcciones para solicitudes de listas de correo), deben explicarse aquí.
+
+**3.3 Carta**
+
+Cada CSIRT debe tener un estatuto que especifique lo que debe hacer y la autoridad bajo la cual lo hará. La carta debe incluir al menos los siguientes elementos:
+
+- Estado de la misión
+- circunscripción
+- Patrocinio / afiliación
+-­ Autoridad
+
+**3.3.1 Declaración de misión**
+
+La declaración de misión debe centrarse en las actividades principales del equipo, ya establecidas en la definición de CSIRT. Para ser considerado un equipo de respuesta a incidentes de seguridad informática, el equipo debe respaldar la notificación de incidentes y respaldar a sus integrantes al abordar los incidentes.
+
+Las metas y propósitos de un equipo son especialmente importantes y requieren una definición clara e inequívoca.
+
+**3.3.2 Circunscripción**
+
+La circunscripción de un CSIRT se puede determinar de varias maneras. Por ejemplo, podrían ser los empleados de una empresa o sus suscriptores pagos, o podría definirse en términos de un enfoque tecnológico, como los usuarios de un sistema operativo en particular.
+
+La definición de la circunscripción debe crear un perímetro alrededor del grupo al que el equipo prestará servicios. La sección de política del documento (ver más abajo) debe explicar cómo se manejarán las solicitudes provenientes de fuera de este perímetro.
+
+Si un CSIRT decide no revelar su electorado, debe explicar el razonamiento detrás de esta decisión. Por ejemplo, los CSIRT que cobran una tarifa no enumerarán a sus clientes, pero declararán que brindan un servicio a un gran grupo de clientes que se mantiene confidencial debido a los contratos de los clientes.
+
+Los distritos electorales pueden superponerse, como cuando un ISP proporciona un CSIRT que presta servicios a sitios de clientes que también tienen CSIRT. El La sección de autoridad de la descripción del CSIRT (ver más abajo) debe dejar claras dichas relaciones.
+
+**3.3.3 Organización patrocinadora/afiliación**
+
+A continuación se debe indicar la organización patrocinadora que autoriza las acciones del CSIRT. Saber esto ayudará a los usuarios a comprender los antecedentes y la configuración del CSIRT, y es información vital para generar confianza entre un elector y un CSIRT.
+
+**3.3.4 Autoridad**
+
+Esta sección variará mucho de un CSIRT a otro, según la relación entre el equipo y sus integrantes. Mientras que un CSIRT organizacional recibirá su autoridad de la dirección de la organización, un CSIRT comunitario será apoyado y elegido por la comunidad, generalmente en una función de asesoramiento.
+
+Un CSIRT puede tener o no autoridad para intervenir en el funcionamiento de todos los sistemas dentro de su perímetro. Debe identificar el alcance de su control a diferencia del perímetro de su electorado. Si otros CSIRT operan jerárquicamente dentro de su perímetro, esto debe mencionarse aquí e identificarse los CSIRT relacionados.
+
+La divulgación de la autoridad de un equipo puede exponerlo a reclamaciones de responsabilidad. Cada equipo debe buscar asesoramiento legal sobre estos asuntos. (Consulte la sección 3.7 para obtener más información sobre responsabilidad).
+
+**3.4 Políticas**
+
+Es fundamental que los equipos de respuesta a incidentes definan sus políticas. Las siguientes secciones analizan la comunicación de estas políticas a la comunidad constituyente.
+
+**3.4.1 Tipos de incidentes y nivel de soporte**
+
+Los tipos de incidentes que el equipo puede abordar y el nivel de soporte que ofrecerá el equipo al responder a cada tipo de incidente deben resumirse aquí en forma de lista. La sección Servicios (ver más abajo) brinda la oportunidad de brindar descripciones más detalladas y abordar temas no relacionados con incidentes.
+
+El nivel de soporte puede cambiar dependiendo de factores como la carga de trabajo del equipo y la integridad de la información disponible. Estos factores deberían describirse y explicarse sus repercusiones. Como una lista de tipos conocidos de incidentes estará incompleta con respecto a incidentes posibles o futuros, un CSIRT también debe brindar algunos antecedentes sobre el soporte "predeterminado" para tipos de incidentes que no se mencionan de otra manera.
+
+El equipo debe indicar si actuará según la información que reciba sobre vulnerabilidades que crean oportunidades para incidentes futuros. El compromiso de actuar sobre dicha información en nombre de sus electores se considera una política de servicio proactiva opcional y no un requisito de servicio básico para un CSIRT.
+
+
+
 
 
 **Aporte grupo 5**
