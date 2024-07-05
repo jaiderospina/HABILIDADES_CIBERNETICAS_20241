@@ -156,7 +156,7 @@ Una vez que una parte ha decidido compartir información con otra parte, o dos p
 Es muy fácil enviar correos electrónicos falsificados y no es difícil establecer una identidad (falsa) por teléfono. Las técnicas criptográficas, por ejemplo Pretty Good Privacy (PGP) o Privacy Enhanced Mail (PEM), pueden proporcionar formas efectivas de asegurar el correo electrónico. Con el equipo adecuado también es posible asegurar la comunicación telefónica. Pero antes de usar tales mecanismos, ambas partes necesitan la infraestructura "correcta", lo que significa preparación por adelantado. La preparación más importante garantizar la autenticidad de las claves criptográficas utilizadas en la comunicación segura: 
 
 
-**Pag 7-12 (temporal para conocimiento)**
+**Grupo No. 2 Pag 7-12**
 
 •	Claves públicas (para técnicas como PGP y PEM): Debido a que son accesibles a través de Internet, las claves públicas deben ser     autenticadas antes de su uso. Mientras que PGP se basa en una "Red de Confianza" (donde los usuarios firman las claves de otros usuarios), PEM se basa en una jerarquía (donde las autoridades de certificación firman las claves de los usuarios).
 
@@ -196,24 +196,24 @@ Aquí se deben enumerar todos los detalles sobre cómo contactar al CSIRT, aunqu
 
 ­- Dirección de envio
 
-­ - Zona horaria	               Esto es útil para coordinar incidentes que cruzan zonas horarias.
+­ - Zona horaria:	               Esto es útil para coordinar incidentes que cruzan zonas horarias.
 
 ­ - Número de teléfono
 
 ­ - Número de fax
 
-­ - Otras telecomunicaciones		Algunos equipos pueden proporcionar comunicaciones de voz seguras (por ejemplo, STU III).
+­ - Otras telecomunicaciones:		Algunos equipos pueden proporcionar comunicaciones de voz seguras (por ejemplo, STU III).
 
 ­ - Dirección de correo electrónico
 
-­ - Claves públicas y cifrado 		El uso de técnicas específicas depende de la capacidad de los interlocutores de comunicación para                                      tener acceso a programas, claves, etc. Se debe proporcionar información pertinente para que los                                        usuarios puedan determinar si pueden utilizar comunicaciones cifradas y cómo hacerlo mientras                                          interactúan con el CSIRT.
+­ - Claves públicas y cifrado: 		El uso de técnicas específicas depende de la capacidad de los interlocutores de comunicación para                                      tener acceso a programas, claves, etc. Se debe proporcionar información pertinente para que los                                        usuarios puedan determinar si pueden utilizar comunicaciones cifradas y cómo hacerlo mientras                                          interactúan con el CSIRT.
 
 - Miembros del equipo
  
-- Horas de funcionamiento        El horario de funcionamiento y el calendario de días festivos deben proporcionarse aquí.
+- Horas de funcionamiento:        El horario de funcionamiento y el calendario de días festivos deben proporcionarse aquí.
                                  ¿Hay una línea directa las 24 horas?
 
-- Información de contacto adicional ¿Existe alguna información de contacto específica del cliente?
+- Información de contacto adicional: ¿Existe alguna información de contacto específica del cliente?
  
 Se puede proporcionar información de contacto más detallada. Esto podría incluir diferentes contactos para diferentes servicios o podría ser una lista de servicios de información en línea. Si existen procedimientos específicos para acceder a algunos servicios (por ejemplo, direcciones para solicitudes de listas de correo), deben explicarse aquí.
 
@@ -266,9 +266,24 @@ El nivel de soporte puede cambiar dependiendo de factores como la carga de traba
 
 El equipo debe indicar si actuará según la información que reciba sobre vulnerabilidades que crean oportunidades para incidentes futuros. El compromiso de actuar sobre dicha información en nombre de sus electores se considera una política de servicio proactiva opcional y no un requisito de servicio básico para un CSIRT.
 
+**3.4.2 Cooperación, interacción y divulgación de información**
 
+Esta sección debe dejar explícito con qué grupos relacionados interactúa habitualmente el CSIRT. Dichas interacciones no están necesariamente relacionadas con la respuesta proporcionada al incidente de seguridad informática, pero se utilizan para facilitar una mejor cooperación en temas o servicios técnicos. De ninguna manera es necesario dar detalles sobre los acuerdos de cooperación; El principal objetivo de esta sección es brindar a los electores una comprensión básica de qué tipo de interacciones se establecen y cuál es su propósito.
 
+La cooperación entre CSIRT puede facilitarse mediante el uso de una asignación de número de billete único combinada con procedimientos de transferencia explícitos. Esto reduce la posibilidad de malentendidos, duplicaciones de esfuerzos, ayuda en el seguimiento de incidentes y evita "bucles" en la comunicación.
 
+La política de presentación de informes y divulgación debe dejar claro quiénes serán los destinatarios del informe de un CSIRT en cada circunstancia. También debe indicar si el equipo espera operar a través de otro CSIRT o directamente con un miembro de otro grupo sobre asuntos que conciernen específicamente a ese miembro.
+
+Los grupos relacionados con los que interactuará un CSIRT se enumeran a continuación:
+
+Equipos de respuesta a incidentes: 
+   un CSIRT a menudo necesitará interactuar con otros CSIRT. Para Por ejemplo, un CSIRT de una gran empresa puede necesitar informar incidentes a un CSIRT nacional, y un CSIRT nacional puede necesitar informar incidentes a CSIRT nacionales de otros países para ocuparse de todos los sitios involucrados en un ataque a gran escala.
+
+La colaboración entre CSIRT puede dar lugar a la divulgación de información. Los siguientes son ejemplos de dicha divulgación, pero no pretenden ser una lista exhaustiva:
+
+­- Informar de incidencias dentro de la circunscripción a otros equipos. Si se hace esto, la información relacionada con el sitio puede llegar a ser de conocimiento público, accesible a todos, en particular a la prensa.
+
+­- Manejar los incidentes que ocurran dentro de la circunscripción, pero reportado desde fuera (lo que implica que parte de la información ya ha sido divulgada fuera del sitio).
 
 **Aporte grupo 5**
 **RFC 2350 Expectativas de respuesta a incidentes de seguridad informática junio de 1998** **Pag. 25-30**
