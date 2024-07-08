@@ -7,16 +7,13 @@ Identificar y comprender las etapas del modelo F2T2EA (Find, Fix, Track, Target,
 
 En grupos evlauar el escenario presentado e identificar y describir las acciones tomadas en cada una de las etapas del modelo F2T2EA. Al final de la actividad, cada equipo presentará sus hallazgos y se discutirá en clase.
 
-#### Duración:
-2 horas
-
 #### Pasos de la Actividad:
 
-1. **Contexto (40 minutos)**:
+**Contexto (40 minutos)**:
     - Explicación del modelo F2T2EA y sus etapas.
     - Contextualización desde el punto de vista del atacante y la defensa.
 
-2. **Presentación del Escenario**:
+**Presentación del Escenario**:
     - **Escenario Hipotético**: 
 La empresa TechSecure, especializada en desarrollo de software, ha experimentado una intrusión cibernética. Los empleados comenzaron a reportar problemas para acceder a archivos y aplicaciones críticas. Al investigar, el equipo de TI descubrió un mensaje de rescate en varios sistemas, indicando que los datos han sido encriptados y se debe pagar un rescate en criptomonedas para recuperar el acceso.
 
@@ -24,8 +21,8 @@ El ataque parece haberse iniciado a través de un correo electrónico de phishin
 
 El equipo de respuesta a incidentes de TechSecure ha sido movilizado para gestionar la crisis.
 
-4. **Análisis del Escenario**:
-5. 
+**Análisis del Escenario**:
+ 
     - Cada equipo analizará el escenario y documentará las acciones correspondientes a cada fase del modelo F2T2EA. Se deben considerar las siguientes preguntas para cada fase:
         - **Find (Encontrar)**: ¿Cómo fue detectado el ataque inicialmente? ¿Qué herramientas o métodos se utilizaron para encontrar la amenaza?
         - **Fix (Fijar)**: ¿Qué pasos se tomaron para identificar la ubicación exacta del ransomware y su alcance?
@@ -34,10 +31,12 @@ El equipo de respuesta a incidentes de TechSecure ha sido movilizado para gestio
         - **Engage (Comprometer)**: ¿Qué acciones se implementaron para eliminar el ransomware y proteger los sistemas? ¿Qué herramientas se utilizaron?
         - **Assess (Evaluar)**: ¿Cómo se evaluó la efectividad de las acciones tomadas? ¿Qué medidas se implementaron para prevenir futuros ataques?
 
-6. **Preparación de la Presentación**:
+**Preparación de la Presentación**:
     - Cada grupo preparará una breve presentación de sus hallazgos.
 
-7. **Presentaciones de los Equipos**:
+**Presentaciones de los Equipos**:
     - Cada grupo presentará sus resultados y discutirá fué identificadas y abordaron cada fase del modelo F2T2EA.
     - Cada grupo propondrá acciones o mejoras sobre la situasión presentada.
     
+## Métrica de valoración:
+Los estudiantes serán evaluados en base a su capacidad para identificar correctamente cada fase del modelo F2T2EA y la claridad de su presentación. La colaboración en equipo y la profundidad del análisis también serán factores considerados en la evaluación.
