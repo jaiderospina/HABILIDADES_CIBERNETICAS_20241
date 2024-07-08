@@ -7,10 +7,6 @@ Identificar y comprender las etapas del modelo F2T2EA (Find, Fix, Track, Target,
 
 En grupos evlauar el escenario presentado e identificar y describir las acciones tomadas en cada una de las etapas del modelo F2T2EA. Al final de la actividad, cada equipo presentará sus hallazgos y se discutirá en clase.
 
-#### Materiales Necesarios:
-- Ordenadores con acceso a internet (si es necesario para investigación)
-- Guía del escenario del ataque cibernético (proporcionada por el instructor)
-
 #### Duración:
 2 horas
 
