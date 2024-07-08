@@ -285,6 +285,93 @@ La colaboración entre CSIRT puede dar lugar a la divulgación de información. 
 
 ­- Manejar los incidentes que ocurran dentro de la circunscripción, pero reportado desde fuera (lo que implica que parte de la información ya ha sido divulgada fuera del sitio).
 
+**Aporte grupo 3**
+**RFC 2350 pag. 13-18**
+
+- Reportar observaciones dentro de la circunscripción que indiquen incidentes sospechados o confirmados fuera del mismo.
+- Actuar ante reportes de incidentes por fuera de la circunscripción.
+- Pasar información sobre vulnerabilidades a los proveedores, a CSIRTs asociados o directamente a los sitios afectados que se encuentran dentro o fuera de la circunscripción.
+- Retroalimentar a las partes que reportan incidentes o vulnerabilidades.
+- El suministro de información de contacto relativa a los miembros de la circunscripción, los miembros de otras circunscripciones, otros CSIRT o agencias encargadas de hacer cumplir la ley.
+ Vendedores:
+Algunos proveedores tienen sus propios CSIRT, pero es posible que otros no. En tales casos, un CSIRT deberá trabajar directamente con un proveedor para sugerir mejoras o modificaciones, analizar el problema técnico o probar las soluciones proporcionadas. Los vendedores juegan un papel especial en el manejo de un incidente si las vulnerabilidades de sus productos están involucradas en el incidente.
+
+Entidades estatales de seguridad:
+Estos incluyen la policía y otras agencias de investigación. CSIRT y los usuarios de la plantilla deben ser sensibles a las leyes locales y regulaciones, que pueden variar considerablemente en diferentes países. Un CSIRT podría asesorar sobre los detalles técnicos de los ataques o buscar Asesoramiento sobre las implicaciones legales de un incidente. Las leyes locales y Las regulaciones pueden incluir informes específicos y confidencialidad. requisitos.
+Prensa:
+La prensa puede contactar a un CSIRT para obtener información y comentarios. de vez en cuando.
+Puede ser útil una política explícita sobre divulgación de información a la prensa, particularmente para aclarar las expectativas de la circunscripción de un CSIRT. La política de manejo de prensa deberá aclarar lo mismo temas como se indica arriba más específicamente, ya que la circunscripción suele ser muy sensibles al contacto con la prensa.
+
+Otro:
+Esto podría incluir actividades de investigación o la relación con la organización patrocinadora.
+El estado predeterminado de toda la información relacionada con la seguridad que recibe un equipo suele ser "confidencial", pero el cumplimiento estricto de esto hace que el equipo parezca un "agujero negro" informativo, lo que puede reducir la probabilidad de que el equipo obtenga cooperación de clientes y de otras organizaciones. La plantilla del CSIRT debe definir qué información reportará o revelará, a quién, y cuando.
+Es probable que diferentes equipos estén sujetos a diferentes restricciones legales. o limitantes a la divulgación, especialmente si funcionan en diferentes jurisdicciones. Además, pueden tener requerimientos de reportes impuestos por su organización patrocinadora. La plantilla de cada equipo debe especificar tales restricciones, tanto para aclarar las expectativas de los usuarios como para informar a otros equipos.
+Los conflictos de intereses, particularmente en asuntos comerciales, también pueden restringir la divulgación por parte de un equipo; este documento no hace recomendaciones sobre cómo deben abordarse esos conflictos.
+Normalmente, un equipo recopilará estadísticas. Si la información estadística se distribuye, la política de información y divulgación de la plantilla debe decirlo y describir cómo obtener dichas estadísticas.
+3.4.3 Comunicación y autenticación
+Usted debe tener una política que describa los métodos de comunicación segura y verificable que utilizará. Esto es necesario para comunicación entre un CSIRT y su circunscripción. La plantilla debe incluir claves públicas o direcciones hacia ellas, incluyendo huellas dactilares clave, junto con directrices sobre cómo utilizar esta información para comprobar la autenticidad y actuar al encontrar información corrupta (por ejemplo, dónde reportar esto).
+Al momento se recomienda que, como mínimo, cada CSIRT tenga (si es posible), una clave PGP disponible. Un equipo también puede hacer disponibles otros mecanismos (por ejemplo PEM, MOSS, S/MIME), según sus necesidades y las necesidades de su circunscripción. Tenga en cuenta, sin embargo, que los CSIRT y los usuarios deben conocer las leyes y regulaciones locales Algunos países no permiten cifrados fuertes, o imponen políticas sobre el uso de tecnología de cifrado. Además de cifrar información confidencial siempre que sea posible, la correspondencia debe incluir firmas digitales. (Tenga en cuenta que en la mayoría de los países, la protección de la autenticidad mediante el uso de firmas digitales no se ve afectado por las regulaciones existentes sobre cifrado).
+Para la comunicación por teléfono o fax, un CSIRT podrá mantener en secreto datos de autenticación para las partes con las que puedan tratar, como por ejemplo un contraseña o frase clave acordada. Obviamente, dichas claves secretas no deben ser
+publicadas, aunque su existencia pueda serlo.
+3.5 Servicios
+Los servicios proporcionados por un CSIRT se pueden dividir en dos categorías: actividades en tiempo real directamente relacionadas con la tarea principal de respuesta a incidentes, y actividades proactivas no en tiempo real de apoyo a la tarea de respuesta a incidentes. La segunda categoría y parte de la primera categoría consisten en servicios que son opcionales en el sentido que no todos los CSIRT los ofrecerán.
+3.5.1 Respuesta a incidentes
+La respuesta a incidentes generalmente incluye la evaluación de informes entrantes sobre incidentes ("Triage de incidentes") y darles seguimiento con otros CSIRT, ISP y sitios ("Coordinación de incidentes"). Una tercera gama de servicios, ayudar a un sitio local a recuperarse de un incidente ("Resolución de incidentes"), se compone de servicios típicamente opcionales, que no todos los CSIRT ofrecerán.
+3.5.1.1 Triage de incidentes
+La clasificación de incidentes generalmente incluye:
+ - Evaluación de reportes: Interpretación de reportes de incidentes entrantes, priorizarlos y relacionarlos con incidentes en curso y tendencias.
+ - Verificación Ayuda para determinar si un incidente realmente ha ocurrido y su alcance.
+3.5.1.2 Coordinación de incidentes
+La coordinación de incidentes normalmente incluye:
+ - Categorización de información: Categorización de la información relacionada al incidente (archivos de registro, información de contacto, etc.) con respecto a la política de divulgación de información.
+ - Coordinación: Notificación a otras partes involucradas cuando lo necesiten, según la política de divulgación de información.
+ 
+3.5.1.3 Resolución de incidentes
+Generalmente adicionales u opcionales, los servicios de resolución de incidentes incluyen:
+ - Asistencia Técnica: Esto puede incluir análisis de sistemas comprometidos.
+ - Erradicación: Eliminación de la causa de un incidente de seguridad (la vulnerabilidad explotada), y de sus efectos (por ejemplo, acceso continuado al sistema por un intruso).
+ - Recuperación: Ayuda en la restauración de los sistemas y servicios afectados a su estado antes del incidente de seguridad.
+3.5.2. Actividades proactivas
+Generalmente adicionales u opcionales, los servicios de resolución de incidentes incluyen:
+ - Suministro de información: Esto podría incluir un archivo de vulnerabilidades conocidas, parches o resoluciones de problemas pasados, o listas de correo de asesoramiento.
+ - Herramientas de seguridad: Esto puede incluir herramientas para auditar la seguridad de un sitio.
+ - Educación y entrenamiento
+ - Evaluación del producto
+ - Auditoría y consultoría de seguridad del sitio.
+3.6 Formularios de reporte de incidentes
+El uso de formularios de reportes hace que responder ante incidentes sea más sencillo tanto para los usuarios como para los equipos para hacer frente a incidentes. El cliente puede preparar respuestas a varias preguntas importantes antes de que él o ella realmente se comunique con el equipo y, por lo tanto, puede venir bien preparado. El equipo obtiene toda la información necesaria inmediatamente con el primer reporte y puede continuar eficientemente.
+Dependiendo de los objetivos y servicios de un CSIRT en particular, se pueden utilizar varios formularios, por ejemplo un formulario de reporte para una nueva vulnerabilidad puede ser muy diferente del formulario utilizado para reportar
+ 
+incidentes.
+Lo más eficiente es proporcionar formularios a través de los servicios de información en línea. del equipo. Las indicaciones exactas para descargarlos deben darse en el documento de descripción del CSIRT, junto con declaraciones sobre uso apropiado y pautas sobre cuándo y cómo usar los formularios. Si se admiten direcciones de correo electrónico independientes para reportes basados en formularios deberían listarse aquí nuevamente.
+Un ejemplo de dicho formulario es el Formulario de reporte de incidentes proporcionado por el Centro de Coordinación CERT:
+ - ftp://info.cert.org/incident_reporting_form
+3.7 Descargos de responsabilidad
+Aunque el documento de descripción del CSIRT no constituye un contrato, sus descripciones de servicios y propósitos podrían generar responsabilidades legales. Por tanto, se recomienda incluir un descargo de responsabilidad al final de la plantilla la cual debe advertir al usuario sobre posibles limitaciones.
+En situaciones donde la versión original de un documento deba ser  traducida a otro idioma, la traducción debe llevar un  descargo de responsabilidad indicar como leer el original. Por ejemplo: 
+Aunque intentamos traducir cuidadosamente el documento original del alemán al inglés, no podemos estar seguros de que ambos documentos expresan los mismos pensamientos con el mismo nivel de detalle. y corrección. En todos los casos, donde hay una diferencia entre ambas versiones prevalecerá la versión alemana.
+El uso y la protección de las exenciones de responsabilidad se ven afectados por las leyes y normas locales que todo CSIRT debe conocer. En caso de duda el CSIRT debe verificar el descargo de responsabilidad con un abogado.
+ 
+Apéndice A: Glosario de términos
+ Este glosario define los términos utilizados para describir incidentes de seguridad y Equipos de Respuesta a Incidentes de Seguridad Informática. Sólo se incluye una lista limitada. Para obtener más definiciones, consulte otras fuentes, para ejemplo el Glosario del usuario de Internet [RFC 1983].
+Circunscripción:
+La existencia de una circunscripción está implícita en el propósito de un CSIRT. Este es el grupo de usuarios, sitios, redes u organizaciones atendidas por el equipo. El equipo debe ser reconocido por los miembros de du circunscripción para poder ser efectivo.
+Incidente de seguridad:
+Para los fines de este documento, este término es sinónimo de Incidente de Seguridad Informática: cualquier evento adverso que comprometa algún aspecto de seguridad informática o de red.
+La definición de incidente puede variar entre organizaciones, pero al menos las siguientes categorías son generalmente aplicables:
+ - Pérdida de confidencialidad de la información.
+ - Compromiso de la integridad de la información.
+ - Negación de servicio.
+ - Mal uso del servicio, sistemas o información.
+ - Daños a los sistemas.
+Estas son categorías muy generales. Por ejemplo, el reemplazo de un programa de utilidad del sistema por parte de un Troyano es un ejemplo de “compromiso de la integridad”, y un ataque exitoso a una contraseña es un ejemplo de “pérdida de confidencialidad”. Los ataques, incluso si fallan debido a la protección adecuada, pueden considerarse Incidentes.
+Dentro de la definición de incidente, la palabra "comprometido" es usada. A veces un administrador sólo puede "sospechar" un incidente. Durante la respuesta se debe establecer si realmente ha ocurrido un incidente.
+Equipo de respuesta a incidentes de seguridad informática:
+Según las dos definiciones dadas anteriormente, un CSIRT es un equipo que coordina y apoya la respuesta a incidentes de seguridad que involucran sitios dentro de una circunscripción definida.
+ Para ser considerado un CSIRT, un equipo debe:
+ - Proporcionar un canal (seguro) para recibir informes sobre incidentes sospechosos.
+**Fin aporte grupo 3**
+
 **Aporte grupo 5**
 **RFC 2350 Expectativas de respuesta a incidentes de seguridad informática junio de 1998** **Pag. 25-30**
 
