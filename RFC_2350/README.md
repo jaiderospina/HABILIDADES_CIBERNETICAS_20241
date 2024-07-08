@@ -383,8 +383,9 @@ En situaciones donde la versión original de un documento deba ser  traducida a 
 Aunque intentamos traducir cuidadosamente el documento original del alemán al inglés, no podemos estar seguros de que ambos documentos expresan los mismos pensamientos con el mismo nivel de detalle. y corrección. En todos los casos, donde hay una diferencia entre ambas versiones prevalecerá la versión alemana.
 
 El uso y la protección de las exenciones de responsabilidad se ven afectados por las leyes y normas locales que todo CSIRT debe conocer. En caso de duda el CSIRT debe verificar el descargo de responsabilidad con un abogado.
- 
-Apéndice A: Glosario de términos
+
+ 
+**Apéndice A: Glosario de términos**
 
 Este glosario define los términos utilizados para describir incidentes de seguridad y Equipos de Respuesta a Incidentes de Seguridad Informática. Sólo se incluye una lista limitada. Para obtener más definiciones, consulte otras fuentes, para ejemplo el Glosario del usuario de Internet [RFC 1983].
 
