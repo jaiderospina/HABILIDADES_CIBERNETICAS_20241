@@ -82,7 +82,7 @@ Entendiendo y mapeando las técnicas de APT29 a mitigaciones específicas y fuen
 
 En grupos de trabajo realizar:
 
-1. Describa cada una de las técnicas y su flujo  graficado en el diagrama “Use ATT&CK for Adversary Emulation and Red Teaming”.
+1. Describa cada una de las técnicas y su flujo  graficado en el diagrama “Use ATT&CK for Adversary Emulation and Red Teaming” , visto en clase y que se encuentra en este repositorio como *attack_roadmap_2020_october.pdf
 2. Proponga un control para evitar el uso de las anteriores técnicas por parte del atacante.
 
 *NOTA: Haga uso de la matriz de Mitre.
