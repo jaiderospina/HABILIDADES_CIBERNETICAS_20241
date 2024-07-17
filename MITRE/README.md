@@ -77,3 +77,14 @@ Entendiendo y mapeando las técnicas de APT29 a mitigaciones específicas y fuen
 3. Cisco. (2021). *Annual Internet Report (2018–2023)*.
 4. Kshetri, N. (2020). *Cybersecurity Management for Networked Environments: A Collaborative Approach*. Cambridge University Press.
 5. Stallings, W. (2020). *Network Security Essentials: Applications and Standards*. Pearson.
+
+## Taller en clase.
+
+En grupos de trabajo realizar:
+
+1. Describa cada una de las técnicas y su flujo  graficado en el diagrama “Use ATT&CK for Adversary Emulation and Red Teaming”.
+2. Proponga un control para evitar el uso de las anteriores técnicas por parte del atacante.
+
+*NOTA: Haga uso de la matriz de Mitre.
+
+
