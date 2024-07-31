@@ -22,7 +22,7 @@ Desarrollo de competencias de investigación, uso de herramientas como los repos
 3.  Se ha creado una carpeta llamada ArticulosConsulta en la cúal deberan ser cargados los artículos consultados (paper, estánderes y trabajos de grado) de los cuales como mínimo 10 deben se citados en formato APA 7 edición.
 4. Las fuentes pueden ser empladoas por cualquier grupo, indiferente de si son las que aportarón o no al repositorio de consulta.
 5. Cada grupo deberá subir mínimo 5 artículos diferentes a los ya existentes.
-4. Extensión mínima del artículo 6 páginas, letra 12 arial, espacio y medio.
+4. Extensión mínima del artículo 4 páginas, letra 12 arial, espacio y medio.
 5. Debe ser escrito en tercera persona y contener un mínimo de 6 referencias.
 
 NOTA: Se anexa plantilla y guía de nomas APA en la carpeta ya mencionada.
