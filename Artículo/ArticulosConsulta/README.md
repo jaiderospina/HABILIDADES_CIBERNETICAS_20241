@@ -6,7 +6,7 @@ Esta tabla debe ser diligenciada por todos los grupos, agergando sus artículos,
 ```markdown
 | Título                | Autor              | Referencia APA 7                                   | URL                  | Grupo  |
 |-----------------------|--------------------|---------------------------------------------------|----------------------|--------|
-|                       |                    |                                                   |                      |        |
+| To eP or Not to eP: Electronic Portfolio Usage and Their Role in Framing Digital Identities Among Criminal Justice, Cybersecurity, and Leadership Majors                       |                    |                                                   |                      |        |
 |                       |                    |                                                   |                      |        |
 |                       |                    |                                                   |                      |        |
 |                       |                    |                                                   |                      |        |
