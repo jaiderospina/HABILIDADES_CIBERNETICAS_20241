@@ -23,7 +23,7 @@ Desarrollo de competencias de investigación, uso de herramientas como los repos
 4. Las fuentes pueden ser empladoas por cualquier grupo, indiferente de si son las que aportarón o no al repositorio de consulta.
 5. Cada grupo deberá subir mínimo 5 artículos diferentes a los ya existentes.
 4. Extensión mínima del artículo 6 páginas, letra 12 arial, espacio y medio.
-5. Debe ser escrito en tercera persona y contener un mínimo de 10 referencias.
+5. Debe ser escrito en tercera persona y contener un mínimo de 6 referencias.
 
 NOTA: Se anexa plantilla y guía de nomas APA en la carpeta ya mencionada.
 NOTA 2:  Se debe documentar todo commit generado. 
