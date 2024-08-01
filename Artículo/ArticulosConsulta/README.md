@@ -20,7 +20,7 @@ Hilowle, M. et al. (2023). Improving National Digital Identity Systems Usage: Hu
 ______________________________________________________________________________________________________________________________________
 GRUPO 4
 
-Redacción., (2024, Ene) “Tendencias emergentes en verificación de identidad” Obtenido de https://esemanal.mx /2024/01/tendencias-emergentes-en-verificación-de-identidad/![image](https://github.com/user-attachments/assets/a41ff6ba-ae66-45e0-b98b-7c596da671b6)
+Redacción., (2024, Ene) “Tendencias emergentes en verificación de identidad” Obtenido de https://esemanal.mx/2024/01/tendencias-emergentes-en-verificación-de-identidad/
 
 Sabadi, M., (2024, Feb) “Las tendencias en identidad digital para 2024” Obtenido de https://www.miteksystems.com/es/blog/tendencias-identidad-digital-2024
 
