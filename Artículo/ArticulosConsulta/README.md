@@ -16,7 +16,7 @@ Clifton, J., Fernández, M., y Cagigas, D. (2023). Beyond the hype—the actual 
 
 Okunoye, B. (2021). Digital identity for development should keep pace with national cybersecurity capacity: Nigeria in focus. _Journal of Cyber Policy, 7_ (1), 24-37. Disponible en https://www.tandfonline.com/doi/abs/10.1080/23738871.2022.2057865
 
-Sule, M., Zennaro, M., y Thomas, G. (2021). Cybersecurity through the lens of Digital Identity and Data Protection: Issues and Trends. _Technology in Society, 67_. Disponible en https://www.sciencedirect.com/science/article/abs/pii/S0160791X21002098
+Hilowle, M. et al. (2023). Improving National Digital Identity Systems Usage: Human-Centric Cybersecurity Survey. _Journal of Computer Information Systems_, 1-15. Disponible en https://www.tandfonline.com/doi/full/10.1080/08874417.2023.2251452 
 __________________________________________________________________________________________________________________________________________
 
 ```markdown
