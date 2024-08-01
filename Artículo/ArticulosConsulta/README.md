@@ -18,11 +18,12 @@ Okunoye, B. (2021). Digital identity for development should keep pace with natio
 
 Hilowle, M. et al. (2023). Improving National Digital Identity Systems Usage: Human-Centric Cybersecurity Survey. _Journal of Computer Information Systems_, 1-15. Disponible en https://www.tandfonline.com/doi/full/10.1080/08874417.2023.2251452 
 __________________________________________________________________________________________________________________________________________
-#Tabla de artículos para trabajo final
+## Tabla de artículos para trabajo final
 
-| Título                | Autor              | Referencia APA 7                                  | URL                  | Grupo  |
-|-----------------------|--------------------|---------------------------------------------------|----------------------|--------|
+| Título                                 | Autor                   | Referencia APA 7                                  | URL                  | Grupo  |
+|----------------------------------------|-------------------------|---------------------------------------------------|----------------------|--------|
 | To eP or Not to eP: Electronic Portfolio Usage and Their Role in Framing Digital Identities Among Criminal Justice, Cybersecurity, and Leadership Majors| Payne, B., Cross, B., Paredes, T. y Gainey, R.| Payne, B., Cross, B., Paredes, T. y Gainey, R. (2021). To eP or Not to eP: Electronic Portfolio Usage and Their Role in Framing Digital Identities Among Criminal Justice, Cybersecurity, and Leadership Majors. _Journal of Criminal Justice Education 33_ (1), 41-57. Disponible en https://www.tandfonline.com/doi/full/10.1080/10511253.2021.1948086| https://www.tandfonline.com/doi/full/10.1080/10511253.2021.1948086| 3|
+| A global digital identity for all: the next evolution.| Sullivan, C. y Tyson, S.| Sullivan, C. y Tyson, S. (2022). A global digital identity for all: the next evolution. _Policy Design and Practice, 6_ (4), 433-445. Disponible en https://www.tandfonline.com/doi/full/10.1080/25741292.2023.2267867| [https://www.tandfonline.com/doi/full/10.1080/10511253.2021.1948086](https://www.tandfonline.com/doi/full/10.1080/25741292.2023.2267867)| 3|
 __________________________________________________________________________________________________________________________________________
 
 
