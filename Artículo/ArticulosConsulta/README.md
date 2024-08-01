@@ -17,6 +17,25 @@ Clifton, J., Fernández, M., y Cagigas, D. (2023). Beyond the hype—the actual 
 Okunoye, B. (2021). Digital identity for development should keep pace with national cybersecurity capacity: Nigeria in focus. _Journal of Cyber Policy, 7_ (1), 24-37. Disponible en https://www.tandfonline.com/doi/abs/10.1080/23738871.2022.2057865
 
 Hilowle, M. et al. (2023). Improving National Digital Identity Systems Usage: Human-Centric Cybersecurity Survey. _Journal of Computer Information Systems_, 1-15. Disponible en https://www.tandfonline.com/doi/full/10.1080/08874417.2023.2251452 
+______________________________________________________________________________________________________________________________________
+GRUPO 4
+
+Redacción., (2024, Ene) “Tendencias emergentes en verificación de identidad” Obtenido de https://esemanal.mx /2024/01/tendencias-emergentes-en-verificación-de-identidad/![image](https://github.com/user-attachments/assets/a41ff6ba-ae66-45e0-b98b-7c596da671b6)
+
+Sabadi, M., (2024, Feb) “Las tendencias en identidad digital para 2024” Obtenido de https://www.miteksystems.com/es/blog/tendencias-identidad-digital-2024
+
+Ambrissi, R., (2022, Dic) “La identidad digital es tendencia y desafío para 2023” Obtenido de https://es.cointelegraph.com/news/digital-identity-trends-and-challenges-for-2023
+
+OEA CSIRTAmericas Networks (2023, Volumen 2) “Guía práctica para CSIRTs, un modelo de negocio sostenible” Obtenido de https://www.oas.org/es/sms/cicte/ciberseguridad/publicaciones/Guia-CSIRT%202023%20ESP%20Digital.pdf
+
+Trejo, D., (2022, Mar) “Identidad digital” Obtenido de https://github.com/gcba/Identidad-digital/blob/main/Whitepaper%20Tango.md#whitepaper-tango1
+
+Bernal, J., (2022, Mar) “La protección de datos personales de los miembros de las Fuerzas Militares de Colombia en el cumplimiento de labores misionales” Obtenido de https://www.esdegrepositorio.edu.co/handle/20.500.14205/11099
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 __________________________________________________________________________________________________________________________________________
 ## Tabla de artículos para trabajo final
 
