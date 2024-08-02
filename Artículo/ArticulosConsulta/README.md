@@ -31,6 +31,8 @@ OEA CSIRTAmericas Networks (2023, Volumen 2) “Guía práctica para CSIRTs, un 
 Trejo, D., (2022, Mar) “Identidad digital” Obtenido de https://github.com/gcba/Identidad-digital/blob/main/Whitepaper%20Tango.md#whitepaper-tango1
 
 Bernal, J., (2022, Mar) “La protección de datos personales de los miembros de las Fuerzas Militares de Colombia en el cumplimiento de labores misionales” Obtenido de https://www.esdegrepositorio.edu.co/handle/20.500.14205/11099
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
