@@ -41,6 +41,8 @@ ________________________________________________________________________________
 |----------------------------------------|-------------------------|---------------------------------------------------|----------------------|--------|
 | To eP or Not to eP: Electronic Portfolio Usage and Their Role in Framing Digital Identities Among Criminal Justice, Cybersecurity, and Leadership Majors| Payne, B., Cross, B., Paredes, T. y Gainey, R.| Payne, B., Cross, B., Paredes, T. y Gainey, R. (2021). To eP or Not to eP: Electronic Portfolio Usage and Their Role in Framing Digital Identities Among Criminal Justice, Cybersecurity, and Leadership Majors. _Journal of Criminal Justice Education 33_ (1), 41-57. Disponible en https://www.tandfonline.com/doi/full/10.1080/10511253.2021.1948086| https://www.tandfonline.com/doi/full/10.1080/10511253.2021.1948086| 3|
 | A global digital identity for all: the next evolution.| Sullivan, C. y Tyson, S.| Sullivan, C. y Tyson, S. (2022). A global digital identity for all: the next evolution. _Policy Design and Practice, 6_ (4), 433-445. Disponible en https://www.tandfonline.com/doi/full/10.1080/25741292.2023.2267867| [https://www.tandfonline.com/doi/full/10.1080/10511253.2021.1948086](https://www.tandfonline.com/doi/full/10.1080/25741292.2023.2267867)| 3|
+“Tendencias emergentes en verificación de identidad” | Redacción.| Redacción., (2024, Ene) “Tendencias emergentes en verificación de identidad” Obtenido de https://esemanal.mx/2024/01/tendencias-emergentes-en-verificación-de-identidad/ | https://esemanal.mx/2024/01/tendencias-emergentes-en-verificación-de-identidad/ | 4 |
+  
 __________________________________________________________________________________________________________________________________________
 
 
