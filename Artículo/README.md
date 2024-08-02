@@ -11,7 +11,7 @@ Desarrollo de competencias de investigación, uso de herramientas como los repos
 - ¿Cómo?
   Mediante el desarrollo de un artículo de investigación de manera grupal y haciendo uso de repositorio github.
 
-- ** Proceso metodológico: **
+- **Proceso metodológico:**
 
 1. El trabajo es en grupo de máximo 4 integrantes.
 2. Las  temáticas son (puede ser escogida culaquiera de las dos):
