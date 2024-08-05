@@ -1,4 +1,20 @@
 # Carpeta artículos.
+grupo 4 
+Alfabetización en Comunicación Científica: Acreditación, OA, redes sociales, altmetrics, bibliotecarios incrustados y gestión de la identidad digital	Julio Alonso Arévalo
+	http://hdl.handle.net/10760/22838
+
+Identidad digital, qué es y para qué sirve	Por Staff Editorial 11 febrero 2019	https://tendenciasocial.com/identidad-digital-que-es/
+
+iProov revela tendencias y predicciones en Identidad Digital para el 2024	Postado por Redacción Portal ERP Colombia 12/01/2024	https://portalerp.com.co/iproov-revela-tendencias-y-predicciones-en-identidad-digital-para-el-2024
+
+La gestión de la identidad digital: una nueva habilidad
+informacional y digital	Giones-Valls, A., & Serrat-Brustenga, M. (2010).	https://bid.ub.edu/24/pdf/giones2.pdf
+
+Identidad Digital:
+El nuevo usuario en
+el mundo digital	Telefónica, F. (2013).	https://www.ufasta.edu.ar/biblioteca/files/2017/02/identidad_digital.pdf
+
+	
 
 
 Esta tabla debe ser diligenciada por todos los grupos, agergando sus artículos, al respecto investigar como se inserta los daos solicitados (markdown):
