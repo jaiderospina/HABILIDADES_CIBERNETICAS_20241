@@ -167,7 +167,7 @@ https://www.oas.org/es/sms/cicte/ciberseguridad/publicaciones/2014%20-%20Tendenc
 
 https://www.nist.gov/system/files/documents/2018/12/10/frameworkesmellrev_20181102mn_clean.pdf
 
-https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Cyber%20Security%20and%20Critical%20Infrastructure%20in%20North%20America.pdf Parraguez-Kobek, L., Stockton, P., & Houle, G. (2022). Cybersecurity and Critical Infrastructure Resilience in North America. Forging a Continental Future, 217.
+Parraguez-Kobek, L., Stockton, P., & Houle, G. (2022). Cybersecurity and Critical Infrastructure Resilience in North America. Forging a Continental Future, 217. https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Cyber%20Security%20and%20Critical%20Infrastructure%20in%20North%20America.pdf 
 
 Maglaras, L., Janicke, H., & Ferrag, M. A. (2022). Cybersecurity of Critical Infrastructures: Challenges and Solutions. Sensors, 22(14), 5105. https://www.mdpi.com/1424-8220/22/14/5105
 
