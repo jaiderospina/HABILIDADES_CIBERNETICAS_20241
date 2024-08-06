@@ -57,6 +57,7 @@ Keywords: Cybersecurity, Critical infrastructure, Digital identity, National pol
 
  
 INTRODUCCIÓN 
+
 La seguridad de las infraestructuras críticas en la actual era digital es un reto esencial para gobiernos y entidades globales. La creciente interconexión ha creado nuevas vulnerabilidades que precisan enfoques innovadores para resguardar los activos clave de un país. En este marco, la identidad digital se presenta como un componente crucial en la estrategia de ciberseguridad, ofreciendo tanto oportunidades como desafíos.
 Las crecientes amenazas cibernéticas subrayan la urgencia de desarrollar robustos mecanismos de autenticación y control de acceso. Sectores como energía, transporte, telecomunicaciones y finanzas son especialmente vulnerables a ataques malintencionados. La complejidad y relevancia de estos sistemas para la sociedad moderna requieren medidas de seguridad avanzadas que superen las soluciones tradicionales.
 En América Latina y el Caribe, experiencias como las descritas en el informe “Tendencias de Seguridad Cibernética en América Latina y el Caribe” de 2014 muestran un aumento significativo en la frecuencia y sofisticación de los ciberataques. Consecuentemente, gobiernos y organizaciones han revisado sus estrategias, destacando la implementación de sistemas robustos de identidad digital como respuestas esenciales.
@@ -65,7 +66,11 @@ El documento CONPES 3854 de Colombia resalta la importancia de un enfoque digita
 Uno de los mayores desafíos es equilibrar seguridad y usabilidad. Los sistemas necesitan ser lo suficientemente robustos para resistir sofisticados ataques y, al mismo tiempo, ser accesibles para el personal autorizado, evitando que se conviertan en obstáculos operativos. El uso de tecnologías biométricas refuerza la seguridad al asociar la identidad digital con características individuales únicos. Sin embargo, estas tecnologías exigen abordar delicadamente cuestiones éticas y de privacidad, especialmente en infraestructuras críticas.
 
 La interoperatividad digital entre distintos sectores y países es otro punto crucial. La creciente interconexión genera la necesidad de estándares comunes que optimicen la eficiencia y la respuesta a incidentes multi-sectoriales y transnacionales. El Marco para la Mejora de la Seguridad Cibernética en Infraestructuras Críticas del NIST enfoca en un método basado en riesgos, optimizando la adaptación continua según la evolución de nuevas amenazas y tecnologías. Donde, la gestión del ciclo de vida de las identidades digitales en infraestructuras críticas demanda atención meticulosa desde la credencial inicial hasta la revocación de accesos. Factoras como rotación de personal, valer modificar la responsabilidad y acceso de emergencia, exige sistemas tanto flexibles como seguros. 
+
+
 DESARROLLO
+
+
 La seguridad cibernética en Colombia enfrenta retos significativos en la protección de la identidad digital y de infraestructuras críticas. La política nacional del documento CONPES 3701 ha sido crucial para guiar las acciones de ciberseguridad y ciberdefensa, estableciendo directrices y áreas prioritarias para la acción gubernamental.
 
 El Centro Cibernético Policial (CCP), bajo la Dirección de Investigación Criminal e INTERPOL (DIJIN), juega un papel central en la lucha contra los delitos cibernéticos. Capacitado por organismos internacionales como el Departamento de Estado de los Estados Unidos y el FBI, el CCP ha fortalecido sus capacidades en análisis forense digital y respuesta a incidentes.
@@ -155,11 +160,16 @@ Por lo tanto, la protección de la identidad digital y las infraestructuras crí
 REFERENCIAS
 
 https://www.oas.org/es/sms/cicte/docs/Desafios-del-riesgo-cibernetico-en-el-sector-financiero-para-Colombia-y-America-Latina.pdf?locale
+
 https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf?locale 
+
 https://www.oas.org/es/sms/cicte/ciberseguridad/publicaciones/2014%20-%20Tendencias%20de%20Seguridad%20Cibern%C3%A9tica%20en%20Am%C3%A9rica%20Latina%20y%20el%20Caribe.pdf
+
 https://www.nist.gov/system/files/documents/2018/12/10/frameworkesmellrev_20181102mn_clean.pdf
-https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Cyber%20Security%20and%20Critical%20Infrastructure%20in%20North%20America.pdf
-Maglaras, L., Janicke, H., & Ferrag, M. A. (2022). Cybersecurity of Critical Infrastructures: Challenges and Solutions. Sensors, 22(14), 5105.
+
+https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Cyber%20Security%20and%20Critical%20Infrastructure%20in%20North%20America.pdf Parraguez-Kobek, L., Stockton, P., & Houle, G. (2022). Cybersecurity and Critical Infrastructure Resilience in North America. Forging a Continental Future, 217.
+
+Maglaras, L., Janicke, H., & Ferrag, M. A. (2022). Cybersecurity of Critical Infrastructures: Challenges and Solutions. Sensors, 22(14), 5105. https://www.mdpi.com/1424-8220/22/14/5105
 
 
 [Art. Desafíos y tendencias en la identidad digital para la seguridad de las infraestructuras criticas.pdf](https://github.com/user-attachments/files/16511993/Art.Desafios.y.tendencias.en.la.identidad.digital.para.la.seguridad.de.las.infraestructuras.criticas.pdf)
