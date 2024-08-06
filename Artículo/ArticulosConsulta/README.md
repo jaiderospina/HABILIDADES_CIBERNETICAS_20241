@@ -1,6 +1,7 @@
 # Carpeta artículos.
 
-GRUPO 1
+GRUPO CRIPTOGUARD
+
 
 https://www.oas.org/es/sms/cicte/docs/Desafios-del-riesgo-cibernetico-en-el-sector-financiero-para-Colombia-y-America-Latina.pdf?locale
 
