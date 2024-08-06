@@ -3,10 +3,20 @@
 GRUPO 1
 
 https://www.oas.org/es/sms/cicte/docs/Desafios-del-riesgo-cibernetico-en-el-sector-financiero-para-Colombia-y-America-Latina.pdf?locale
+
+
 https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf?locale 
+
+
 https://www.oas.org/es/sms/cicte/ciberseguridad/publicaciones/2014%20-%20Tendencias%20de%20Seguridad%20Cibern%C3%A9tica%20en%20Am%C3%A9rica%20Latina%20y%20el%20Caribe.pdf
+
+
 https://www.nist.gov/system/files/documents/2018/12/10/frameworkesmellrev_20181102mn_clean.pdf
+
+
 Parraguez-Kobek, L., Stockton, P., & Houle, G. (2022). Cybersecurity and Critical Infrastructure Resilience in North America. Forging a Continental Future, 217. https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Cyber%20Security%20and%20Critical%20Infrastructure%20in%20North%20America.pdf
+
+
 Maglaras, L., Janicke, H., & Ferrag, M. A. (2022). Cybersecurity of Critical Infrastructures: Challenges and Solutions. Sensors, 22(14), 5105.
 
 _________________________________________________________________________________________________________________________
