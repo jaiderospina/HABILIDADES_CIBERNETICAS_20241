@@ -1,6 +1,6 @@
-# ARTICULO GRUPO CRIPTOGUARD
+# ARTÍCULO GRUPO CRIPTOGUARD
 
-:construction: En este repositorio encontrará el articulo realizado por el siguiente grupo  :construction:
+:construction: En este repositorio encontrará el artículo realizado por el siguiente grupo  :construction:
 
 
 ## :hammer:INTEGRANTES GRUPO
