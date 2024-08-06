@@ -162,4 +162,4 @@ https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Cyber%2
 Maglaras, L., Janicke, H., & Ferrag, M. A. (2022). Cybersecurity of Critical Infrastructures: Challenges and Solutions. Sensors, 22(14), 5105.
 
 
-[Art Desafíos y tendencias en la identidad digital para la seguridad de las infraestructuras criticas.pdf](https://github.com/user-attachments/files/16511959/Art.Desafios.y.tendencias.en.la.identidad.digital.para.la.seguridad.de.las.infraestructuras.criticas.pdf)
+[Art. Desafíos y tendencias en la identidad digital para la seguridad de las infraestructuras criticas.pdf](https://github.com/user-attachments/files/16511993/Art.Desafios.y.tendencias.en.la.identidad.digital.para.la.seguridad.de.las.infraestructuras.criticas.pdf)
