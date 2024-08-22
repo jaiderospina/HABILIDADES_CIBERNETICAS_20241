@@ -26,7 +26,26 @@ Importancia en Ejercicios Red Team
 
 ##  Taller 
 
-Despelgar
+Desplegar contenedor de JUICE-SHOP y ejecutar algunos de los retos explicados en bibliografía anexa.
+
+
+- docker pull bkimminich/juice-shop
+
+- docker run --rm -p 3000:3000 bkimminich/juice-shop
+
+# Bibliogarfía - referencias
+
+- https://clouddocs.f5.com/training/community/waf/html/waf111/module0/lab3.html
+-
+
+
+
+* Ejercicio voluntario y a descripción!
+
+
+
+
+  # Re
 
 
 # Referencias
