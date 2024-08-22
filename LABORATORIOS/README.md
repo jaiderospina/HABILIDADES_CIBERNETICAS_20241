@@ -12,15 +12,16 @@ Desafíos y CTF (Capture The Flag): Juice Shop incluye varios desafíos y ejerci
 Documentación y Tutoriales: La aplicación viene con una serie de tutoriales y documentación que guían a los usuarios a través de los conceptos de seguridad y les ayudan a comprender cómo explotar y mitigar las vulnerabilidades.
 
 Importancia en Ejercicios Red Team
-** 1. Simulación de Ataques Reales: Juice Shop permite a los equipos Red Team practicar técnicas de ataque en un entorno controlado y legal, simulando situaciones del mundo real sin causar daño a sistemas de producción. Esto ayuda a desarrollar habilidades y tácticas que pueden aplicarse a entornos reales.
 
-** 2. Desarrollo de Habilidades: Los ejercicios en Juice Shop ayudan a los miembros del Red Team a familiarizarse con las técnicas de explotación de vulnerabilidades, mejorar sus habilidades de análisis de seguridad y practicar la identificación y explotación de fallos en aplicaciones web.
+- 1. Simulación de Ataques Reales: Juice Shop permite a los equipos Red Team practicar técnicas de ataque en un entorno controlado y legal, simulando situaciones del mundo real sin causar daño a sistemas de producción. Esto ayuda a desarrollar habilidades y tácticas que pueden aplicarse a entornos reales.
 
-** 3. Evaluación de Herramientas y Métodos: Juice Shop proporciona un entorno para probar y evaluar herramientas de seguridad, métodos y enfoques para la explotación de vulnerabilidades. Los equipos pueden experimentar con diferentes técnicas y herramientas en un entorno seguro.
+- 2. Desarrollo de Habilidades: Los ejercicios en Juice Shop ayudan a los miembros del Red Team a familiarizarse con las técnicas de explotación de vulnerabilidades, mejorar sus habilidades de análisis de seguridad y practicar la identificación y explotación de fallos en aplicaciones web.
 
-** 4. Entrenamiento en Seguridad de Aplicaciones: Al ser una herramienta educativa, Juice Shop ayuda a entrenar a los profesionales de seguridad en el reconocimiento y la explotación de vulnerabilidades, contribuyendo a una mejor comprensión de cómo proteger aplicaciones web y mejorar la postura de seguridad general.
+- 3. Evaluación de Herramientas y Métodos: Juice Shop proporciona un entorno para probar y evaluar herramientas de seguridad, métodos y enfoques para la explotación de vulnerabilidades. Los equipos pueden experimentar con diferentes técnicas y herramientas en un entorno seguro.
 
-** 5. Conciencia y Educación: Juice Shop puede utilizarse para aumentar la conciencia sobre la seguridad de las aplicaciones web y educar a los profesionales sobre las mejores prácticas para la protección contra ataques y vulnerabilidades comunes.
+- 4. Entrenamiento en Seguridad de Aplicaciones: Al ser una herramienta educativa, Juice Shop ayuda a entrenar a los profesionales de seguridad en el reconocimiento y la explotación de vulnerabilidades, contribuyendo a una mejor comprensión de cómo proteger aplicaciones web y mejorar la postura de seguridad general.
+
+ - 5. Conciencia y Educación: Juice Shop puede utilizarse para aumentar la conciencia sobre la seguridad de las aplicaciones web y educar a los profesionales sobre las mejores prácticas para la protección contra ataques y vulnerabilidades comunes.
 
 
 ##  Taller 
