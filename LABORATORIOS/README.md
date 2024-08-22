@@ -35,6 +35,7 @@ Desplegar contenedor de JUICE-SHOP y ejecutar algunos de los retos explicados en
 
 # Bibliogarfía - referencias
 
+- https://tatisbuild.medium.com/explorando-vulnerabilidades-en-owasp-juice-shop-6ab8ff69ed6f
 - https://clouddocs.f5.com/training/community/waf/html/waf111/module0/lab3.html
 -
 
