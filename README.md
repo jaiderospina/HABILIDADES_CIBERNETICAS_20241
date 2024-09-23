@@ -28,6 +28,7 @@ https://www.ccn-cert.cni.es/publico/InfraestructurasCriticaspublico/DirectivaEur
  https://telefonicatech.com/blog/soc-mision-critica-sistemas-ciberfisicos
 - APROXIMACIÓN METODOLÓGICA DEL CIBERCRIMEN EN COLOMBIA PRIMERA PARTE
  https://www.researchgate.net/publication/341541797_APROXIMACION_METODOLOGICA_DEL_CIBERCRIMEN_EN_COLOMBIA_PRIMERA_PARTE
+- https://openaccess.uoc.edu/bitstream/10609/147343/3/antoniodTFM1223memoria.pdf  **Crecaión-SOC**
 
 - Infraestructuras críticas: definición, planes, riesgos, amenazas y legislación
 https://www.lisainstitute.com/blogs/blog/infraestructuras-criticas
