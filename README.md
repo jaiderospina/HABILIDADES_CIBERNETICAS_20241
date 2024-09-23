@@ -34,5 +34,6 @@ https://www.ccn-cert.cni.es/publico/InfraestructurasCriticaspublico/DirectivaEur
 https://www.lisainstitute.com/blogs/blog/infraestructuras-criticas
 - Protección de Infraestructura Crítica y Fuerzas Armadas Conceptualización y experiencia comparada
 https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/28141/1/BCN_Proteccion_IC_Conceptualizacion_y_experiencia_comparada.pdf
+- https://openaccess.uoc.edu/bitstream/10609/147343/3/antoniodTFM1223memoria.pdf  **Creación SOC**
  
 
